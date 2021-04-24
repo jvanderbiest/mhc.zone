@@ -1,0 +1,76 @@
+<div class="banner-content">
+    <h1 class="title">A beginners guide to MetaHash</h1>
+    <p class="desc">
+        The fully decentralized next-generation fast performing network based on Blockchain 4.0 technology!
+        As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize
+        your profits? You have come to the right place!
+    </p>
+    <ul class="banner-btn">
+        <li><a class="readon started" href="#why-metahash">Get Started</a></li>
+        <li>
+            <div class="rs-videos">
+                <div class="animate-border">
+                    <a class="popup-border popup-videos" (click)="openPlayer($event)"
+                        href="https://www.youtube.com/watch?v=PJ0gZchXAOk" rel="noreferrer">
+                        <fa-icon [icon]="faPlay"></fa-icon>
+                    </a>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<app-modal-popup id="metahash-youtube">
+    <div class="youtube">
+        <div class="youtube-close" (click)="closePlayer();">
+            <fa-icon [icon]="faTimes"></fa-icon>
+        </div>
+        <div>
+
+            <youtube-player [videoId]="metahashVideoId" (ready)="savePlayer($event)" (change)="onStateChange($event)">
+            </youtube-player>
+        </div>
+    </div>
+
+</app-modal-popup>
+
+
+<!-- Partner Start -->
+<div class="rs-partner style2 modify1 pt-120 pb-100 md-pt-70 pb-lg-0 md-pb-0">
+    <div>
+        <p class="title social-media-title">Join the fun on social media:</p>
+        <div class="socializer a sr-48px sr-opacity sr-fluid sr-bg-none sr-pad">
+            <span class="sr-telegram">
+                <a href="https://t.me/metahash_eng" rel="noreferrer" target="_blank" title="Telegram">
+                    <fa-icon [icon]="faTelegramPlane"></fa-icon>
+                </a>
+            </span>
+            <span class="sr-facebook">
+                <a href="https://www.facebook.com/MetaHash/" rel="noreferrer" target="_blank" title="Facebook">
+                    <fa-icon [icon]="faFacebookF"></fa-icon>
+                </a>
+            </span>
+            <span class="sr-twitter">
+                <a href="https://twitter.com/themetahash" rel="noreferrer" target="_blank" title="Twitter">
+                    <fa-icon [icon]="faTwitter"></fa-icon>
+                </a>
+            </span>
+            <span class="sr-youtube"><a href="https://www.youtube.com/channel/UCIkBIrd1q7JkLLj43KgG8zA" rel="noreferrer"
+                    target="_blank" title="Youtube">
+                    <fa-icon [icon]="faYoutube"></fa-icon>
+                </a>
+            </span>
+            <span class="sr-reddit"><a href="https://www.reddit.com/r/MetaHash_community/" rel="noreferrer"
+                    target="_blank" title="Reddit">
+                    <fa-icon [icon]="faReddit"></fa-icon>
+                </a>
+            </span>
+            <span class="sr-medium"><a href="https://medium.com/@themetahash" target="_blank" title="Medium">
+                    <fa-icon [icon]="faMedium"></fa-icon>
+                </a>
+            </span>
+        </div>
+
+    </div>
+</div>
+<!-- Partner End -->
