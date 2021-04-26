@@ -1,20 +1,19 @@
-# metahash.info
-Home of https://www.metahash.info
+[![Travis Build Status](https://travis-ci.com/jvanderbiest/mhc.zone.svg?branch=master)](https://travis-ci.org/jvanderbiest/mhc.zone) 
+
+# MHC.ZONE
+An informational website put together by the community to inform people about the MetaHash (https://www.metahash.org) project
 
 ## Build and run
-
-MetaHash.info uses Angular11
-
 ```sh
 npm install -g @angular/cli
 npm install
-ng serve
+ng serve -o
 ```
 
 ## License
 MIT License
 
-Copyright (c) 2021 https://www.metahash.info
+Copyright (c) 2021 https://www.mhc.zone
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -24,6 +24,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.15.2",
     "@fortawesome/free-regular-svg-icons": "^5.15.2",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "bootstrap": "^4.6.0",
     "ngx-youtube-player": "^9.1.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
