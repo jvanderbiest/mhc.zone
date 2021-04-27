@@ -1,5 +1,6 @@
 import { animate, state, style, transition, trigger } from '@angular/animations';
-import { Component, HostListener, OnInit } from '@angular/core';
+import { AfterViewInit, Component, ElementRef, HostListener, OnInit, ViewChild } from '@angular/core';
+import { faAngleUp } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-main-page',
@@ -13,12 +14,20 @@ import { Component, HostListener, OnInit } from '@angular/core';
       ]
     )]
 })
-export class MainPageComponent implements OnInit {
-
+export class MainPageComponent implements OnInit, AfterViewInit {
   constructor() { }
+  ngAfterViewInit(): void {
+  }
   isBusy = false;
+  faAngleUp = faAngleUp;
+  showScrollUp = false;
 
   ngOnInit(): void {
+  }
+
+  scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
   }
 
   @HostListener('window:scroll', ['$event'])
@@ -26,11 +35,13 @@ export class MainPageComponent implements OnInit {
     if (window.pageYOffset > 1) {
       var element: any = document.getElementById('navbar');
       element?.classList.add('sticky');
+      this.showScrollUp = true;
     } else {
       var element: any = document.getElementById('navbar');
       if (!this.isBusy) {
         setTimeout(() => {
           element.classList.remove('sticky');
+          this.showScrollUp = false;
           this.isBusy = false;
         }, 150);
         this.isBusy = true;

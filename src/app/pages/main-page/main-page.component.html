@@ -11,9 +11,6 @@
 </div>
 
 <app-footer></app-footer>
-
-<!-- start scrollUp  -->
-<div id="scrollUp" class="orange-color">
-    <i class="fa fa-angle-up"></i>
+<div id="scrollUp" class="orange-color" (click)="scrollToTop()" [ngClass]="showScrollUp ? 'show' : 'hide'">
+    <fa-icon [icon]="faAngleUp"></fa-icon>
 </div>
-<!-- End scrollUp  -->

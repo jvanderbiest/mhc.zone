@@ -5168,12 +5168,13 @@ body {
     text-align: center;
     bottom: 40px;
     cursor: pointer;
-    display: none;
     position: fixed;
     right: 20px;
     z-index: 999;
     border-radius: 50px 50px 4px 4px;
-    i {
+    display: flex;
+    opacity: 0;
+    fa-icon {
         background-image: linear-gradient(90deg, #03228f 0%, #0e73e4 100%);
         border-radius: 50%;
         height: 40px;
@@ -5182,20 +5183,23 @@ body {
         width: 42px;
         color: #fff;
         line-height: 36px;
-        transition: @transition;
         margin-left: 2px;
         box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
         &:hover {
             opacity: 0.8;            
         }
     }
-    &.oranage{
-        i{
-            background-image: linear-gradient(
-            180deg
-            , #dd4c23 19%, #f27c1e 100%);
-        }
+
+    &.show {
+        transition: opacity 500ms linear;
+         opacity: 1;
+
     }
+    &.hide {
+        transition: opacity 300ms linear;
+        opacity: 0;
+    }
+
 }
 
 /* ------------------------------------
