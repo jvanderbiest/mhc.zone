@@ -1,6 +1,8 @@
 @charset "utf-8";
  
 @import '~bootstrap/dist/css/bootstrap.min.css';
+
+
 @import url('https://fonts.googleapis.com/css2?family=Livvic:ital,wght@0,300;0,400;0,500;0,600;0,700;0,900;1,400&display=swap');
 @body-font:         'Livvic', sans-serif;
 @title-font:        'Livvic', sans-serif;
@@ -2855,6 +2857,7 @@ background: rgba(0, 0, 0, 0.05);
     }
     .mobile-menu{
         display: none;
+        cursor: pointer;
         .mobile-logo {
             float: left;
             img {
@@ -2864,6 +2867,7 @@ background: rgba(0, 0, 0, 0.05);
         .rs-menu-toggle{
             color: @white-color;
             float: right;
+            
             &:hover {
                 opacity: 0.8;
             }
@@ -4541,23 +4545,21 @@ body {
                 margin-bottom: 0px;
                 font-size: 15px;
                 font-weight: 400;
-                i{
-                    float: right;
-                    margin-right: 0;
+                fa-icon{
                     margin-top: 5px;
-                    color: @primary-color;
-                    .info {
+                    &.info {
                         float: right;
                         margin-right: 0;
                         color: #106eea;
                     }
-                    .fa-times, .fa-meh {
+                    svg.fa-times, svg.fa-meh {
                         color: red;
+                        float: right;
                     }
-                    .fa-check, .fa-smile {
+                    svg.fa-check, svg.fa-smile {
                         color: green;
+                        float: right;
                     }
-                    
                 }
             }
         }
@@ -5480,3 +5482,7 @@ body {
        -webkit-transform: translateY(0);
    }
 }
+
+
+@import './assets/css/responsive.less';
+@import './assets/css/rsmenu-main.less';

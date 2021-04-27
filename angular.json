@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "metahashinfo": {
+    "mhczone": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -20,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/metahashinfo",
+            "outputPath": "dist/mhczone",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -68,18 +68,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "metahashinfo:build"
+            "browserTarget": "mhczone:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "metahashinfo:build:production"
+              "browserTarget": "mhczone:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "metahashinfo:build"
+            "browserTarget": "mhczone:build"
           }
         },
         "test": {
@@ -116,16 +116,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "metahashinfo:serve"
+            "devServerTarget": "mhczone:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "metahashinfo:serve:production"
+              "devServerTarget": "mhczone:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "metahashinfo"
+  "defaultProject": "mhczone"
 }

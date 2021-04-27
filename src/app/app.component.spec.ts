@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'metahashinfo'`, () => {
+  it(`should have as title 'mhczone'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('metahashinfo');
+    expect(app.title).toEqual('mhczone');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('metahashinfo app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('mhczone app is running!');
   });
 });

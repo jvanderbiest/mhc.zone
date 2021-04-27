@@ -10,10 +10,15 @@ import { NavigationService } from '../../navigation.service';
 export class HeaderMenuComponent implements OnInit {
   faDoorOpen = faDoorOpen;
   faBars = faBars;
+  openMobileMenu: boolean = false;
 
   constructor(private navigationService: NavigationService) { }
 
   ngOnInit(): void {
+  }
+
+  toggleMobileMenu() {
+    this.openMobileMenu = !this.openMobileMenu;
   }
 
   toggleCanvasMenu() {

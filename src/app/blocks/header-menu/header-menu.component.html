@@ -10,7 +10,7 @@
                     </a>
                 </div>
                 <div class="mobile-menu">
-                    <a href="#" class="rs-menu-toggle rs-menu-toggle-close secondary">
+                    <a href="#" (click)="toggleMobileMenu()" class="rs-menu-toggle rs-menu-toggle-close secondary">
                         <fa-icon [icon]="faBars"></fa-icon>
                     </a>
                 </div>
@@ -18,7 +18,7 @@
             <div class="col-lg-10 text-right">
                 <div class="rs-menu-area">
                     <div class="main-menu">
-                        <nav class="rs-menu pr-86 md-pr-0">
+                        <nav class="rs-menu pr-86 md-pr-0" [ngClass]="openMobileMenu ? 'rs-menu-open' : 'rs-menu-close'">
                             <ul id="onepage-menu" class="nav-menu">
                                 <li> <a href="#rs-header">Home</a></li>
                                 <li><a href="#why-metahash">Why MetaHash</a></li>

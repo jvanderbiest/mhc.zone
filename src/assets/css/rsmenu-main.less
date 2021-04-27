@@ -675,6 +675,20 @@ Version: 1.0.0
     	height: 0;		
     	overflow: hidden!important;
 	}
+
+	.rs-menu-open {
+    	height: auto;		
+	    animation: fadeInMenu 300ms 0ms forwards;
+	}
+	@keyframes fadeInMenu {
+		from {
+		  transform: translateY(-40px);
+		  opacity: 0;
+		} to {
+		  transform: translateY(0);
+		  opacity: 1;
+		}
+	}
 	
 	/*Menu Toggle Appearance*/
 	.rs-menu-toggle {

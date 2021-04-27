@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { faTimes, faInfoCircle, faCheck, faSmile, faMeh } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-metahash-buy',
@@ -6,6 +7,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./metahash-buy.component.less']
 })
 export class MetahashBuyComponent implements OnInit {
+  faTimes = faTimes;
+  faInfoCircle = faInfoCircle;
+  faCheck = faCheck;
+  faSmile = faSmile;
+  faMeh = faMeh;
 
   constructor() { }
 

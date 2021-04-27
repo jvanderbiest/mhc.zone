@@ -1,4 +1,4 @@
-[![Travis Build Status](https://travis-ci.com/jvanderbiest/mhc.zone.svg?branch=master)](https://travis-ci.org/jvanderbiest/mhc.zone) 
+[![Travis Build Status](https://travis-ci.com/jvanderbiest/mhc.zone.svg?branch=master)](https://travis-ci.com/jvanderbiest/mhc.zone) 
 
 # MHC.ZONE
 An informational website put together by the community to inform people about the MetaHash (https://www.metahash.org) project
