@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { faQuoteRight } from '@fortawesome/free-solid-svg-icons';
+import { faQuoteRight, faQuoteLeft, faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-metahash-why',
@@ -8,7 +8,9 @@ import { faQuoteRight } from '@fortawesome/free-solid-svg-icons';
 })
 export class MetahashWhyComponent implements OnInit {
   faQuoteRight = faQuoteRight;
-
+  faQuoteLeft = faQuoteLeft;
+  faExternalLinkAlt = faExternalLinkAlt;
+  
   constructor() { }
 
   ngOnInit(): void {

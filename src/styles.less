@@ -28,7 +28,7 @@ body {
   color: @body-color;
   font-family: @body-font;
   vertical-align: baseline;
-  line-height: 26px;
+  line-height: 28px;
   font-weight: 400;
   overflow-x: hidden;
 }
@@ -46,6 +46,7 @@ html {
   .pb-20{padding-bottom:20px}
   .pb-35{padding-bottom:35px}
   .pb-38{padding-bottom:38px}
+  .pb-60{padding-bottom:60px}
   .pb-100{padding-bottom:100px}
   .pb-120{padding-bottom:120px}
   
@@ -53,6 +54,7 @@ html {
   
   .pl-60{padding-left:60px}
   
+  .mb-20{margin-bottom:20px}
   .mb-30{margin-bottom:30px}
   .mb-40{margin-bottom:40px}
   .mb-45{margin-bottom:45px}
@@ -69,6 +71,7 @@ html {
   
     .md-pl-15{padding-left:15px}
   
+    .md-mb-20{margin-bottom:20px}
     .md-mb-30{margin-bottom:30px}
     .md-mb-50{margin-bottom:50px}
   }
@@ -3846,144 +3849,22 @@ body {
             .skillbar-title {
                 font-weight: 500;
                 color: #212121;
-                font-size: 14px;
+                font-size: 18px;
                 color: #212121;
             }
-            .skillbar{
-                background: #eeeeee;
-                height: 7px;
-                margin: 10px 0 24px;
-                position: relative;
-                width: 100%;
-                .skillbar-bar{
-                background: @primary-color;
-                width: 0;
-                margin-bottom: 0;              
-                height: 7px;
-                line-height: 7px;
-                background-color: transparent;
-                background-image: linear-gradient(190deg, #105AAD 0%, #4E95ED 100%);
-                background-size: 1rem 1rem;
-                }
-                .skill-bar-percent {
-                  height: 30px;
-                  line-height: 30px;
-                  position: absolute;
-                  right: 0;
-                  top: -38px;
-                  font-size: 16px;
-                  font-weight: 700;
-                  color: #0a0a0a;
-                }
+            .channel {
+                margin: 10px 20px 20px 20px;
+            }
+            fa-icon{
+                margin: 0 20px 0 0;
+                font-size: 25px;
+                color: #0b70e1;
+            }
+            a {
+                vertical-align: top;
             }
         }
-        &.modify1{
-            .cl-skill-bar{  
-                .skillbar-title {
-                   text-transform: uppercase;
-                }           
-                .skillbar{
-                    background-color: #DFEDFE;
-                    .skillbar-bar{
-                        background: @secondary-color;
-                    }
-                    .skill-bar-percent {
-                        height: 30px;
-                        line-height: 30px;
-                        position: absolute;
-                        right: 0;
-                        top: -38px;
-                        font-size: 16px;
-                        font-weight: 700;
-                        color: #0a0a0a;
-                        &.white-color{
-                            color: #fff;
-                        }
-                    }
-                }
-            } 
-        }
-        &.modify2{
-           .cl-skill-bar{  
-               .skillbar-title {
-                  text-transform: uppercase;
-               }           
-               .skillbar{
-                   background: #fff;    
-                   border: 1px solid #0B70E1;
-                   height: 9px;
-                   border-radius: 0;
-                   overflow: visible;
-                   padding: 1px;
-                   .skillbar-bar{
-                        background: #007bff;
-                        background-image: linear-gradient(250deg, #0b70e1 19%, #03228f 100%);
-                        height: 5px;
-                    }
-                   .skill-bar-percent {
-                        right: 70px;
-                        color: #454545;
-                        font-weight: 400;
-                    }
-                }
-            }  
-        }
-        &.modify3{
-            padding: 0 120px 0 0;
-            .cl-skill-bar{ 
-               .skillbar{
-                    height: 8px;
-                    line-height: 8px;
-                    padding: 1px 1px 1px 1px;
-                    border-style: solid;
-                    border-width: 1px 1px 1px 1px;
-                    border-color: #FF571C;
-                    background-color: #BF1F1F00;
-                    border-radius: 3px 3px 3px 3px;
-                   .skillbar-bar{
-                      height: 100%;
-                      background: #FF571C;
-                    }
-                   .skill-bar-percent {
-                        right: 70px;
-                        color: #454545;
-                        font-weight: 400;
-                    }
-                    &.purple-style{
-                        border-color: #7E06E4;
-                        .skillbar-bar{
-                           background: #7E06E4;
-                        }
-                    }
-                    &.blue-style{
-                        border-color: #0073FF;
-                        .skillbar-bar{
-                           background: #0073FF;
-                        }
-                    }
-                }
-            }  
-        }
-        &.home4{
-            .skillbar{
-                .skillbar-bar{
-                    background-color:  #FD6509;
-                    background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 
-                    25%, transparent 25%, transparent 50%,
-                    rgba(255, 255, 255, 0.15) 
-                    50%, rgba(255, 255, 255, 0.15) 75%, 
-                    transparent 75%, transparent);
-                    &.paste-bg{
-                        background-color: #03DEA8;
-                    }
-                    &.blue-bg{
-                        background-color:  #0A99FD;
-                    }&.pink-bg{
-                        background-color: #F00674;
-                    }
-                }
-            }
-        }
+      
     }
 }
 
@@ -4459,6 +4340,7 @@ body {
            } 
         }
     }
+    
     .shape-animation{
         position: relative;
        .shape-part{

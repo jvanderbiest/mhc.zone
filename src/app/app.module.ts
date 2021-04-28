@@ -21,6 +21,7 @@ import { MetahashBuyComponent } from './blocks/metahash-buy/metahash-buy.compone
 import { MetahashWalletComponent } from './blocks/metahash-wallet/metahash-wallet.component';
 import { MetahashForgingComponent } from './blocks/metahash-forging/metahash-forging.component';
 import { MetahashFaqComponent } from './blocks/metahash-faq/metahash-faq.component';
+import { MetahashSocialComponent } from './blocks/metahash-social/metahash-social.component';
 
 @NgModule({
   declarations: [
@@ -40,7 +41,8 @@ import { MetahashFaqComponent } from './blocks/metahash-faq/metahash-faq.compone
     MetahashBuyComponent,
     MetahashWalletComponent,
     MetahashForgingComponent,
-    MetahashFaqComponent
+    MetahashFaqComponent,
+    MetahashSocialComponent
   ],
   imports: [
     BrowserModule,
