@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+   <file source-language="en" datatype="plaintext" original="ng2.template">
+      <body>
+         <trans-unit id="2571279690263855617" datatype="html">
+            <source><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p>"/>Progress is impossible without change, and those who cannot change their minds cannot change anything! We are always looking for ideas to improve this website. If you would like to contribute please use any of the following methods to contact us!<x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p>"/></source>
+            <target state="new">
+               <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p>"/>
+               Vooruitgang is onmogelijk zonder verandering, en degenen die niet van gedachten kunnen veranderen, kunnen niets veranderen! We zijn altijd op zoek naar ideeën om deze website te verbeteren. Als u wilt bijdragen, gebruik dan een van de volgende methoden om contact met ons op te nemen!
+               <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p>"/>
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/canvas-menu/canvas-menu.component.html</context>
+               <context context-type="linenumber">24,25</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7524237252728726804" datatype="html">
+            <source>All Rights Reserved</source>
+            <target state="new">Alle rechten voorbehouden</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/footer/footer.component.html</context>
+               <context context-type="linenumber">8</context>
+            </context-group>
+         </trans-unit><trans-unit id="7202510188400990473" datatype="html">
+        <source>home</source>
+        <target state="new">start</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-main/header-main.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">id same as anchor without hash</note>
+        <note priority="1" from="meaning">menu item Home</note>
+      </trans-unit>
+         <trans-unit id="7055207907832782063" datatype="html">
+            <source>#home</source>
+            <target state="new">#start</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">23</context>
+            </context-group>
+            <note priority="1" from="description">Used for anchors</note>
+            <note priority="1" from="meaning">menu item home</note>
+         </trans-unit>
+         <trans-unit id="9002111086030565614" datatype="html">
+            <source>Home</source>
+            <target state="new">Start</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">23</context>
+            </context-group>
+            <note priority="1" from="description">display value</note>
+            <note priority="1" from="meaning">menu item home</note>
+         </trans-unit>
+         <trans-unit id="7382313831988313584" datatype="html">
+            <source>#why-metahash</source>
+            <target state="new">#waarom-metahash</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">24</context>
+            </context-group>
+            <note priority="1" from="description">Used for anchors</note>
+            <note priority="1" from="meaning">menu item Why MetaHash</note>
+         </trans-unit>
+         <trans-unit id="5282201524743704385" datatype="html">
+            <source>Why MetaHash</source>
+            <target state="new">Waarom MetaHash</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">24</context>
+            </context-group>
+            <note priority="1" from="description">display value</note>
+            <note priority="1" from="meaning">menu item Why MetaHash</note>
+         </trans-unit>
+         <trans-unit id="8296735301406128163" datatype="html">
+            <source>#where-to-buy</source>
+            <target state="new">#waar-te-koop</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">25</context>
+            </context-group>
+            <note priority="1" from="description">Used for anchors</note>
+            <note priority="1" from="meaning">menu item Where to buy</note>
+         </trans-unit>
+         <trans-unit id="3456761864464197084" datatype="html">
+            <source>Where to buy</source>
+            <target state="new">Waar te koop</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">25</context>
+            </context-group>
+            <note priority="1" from="description">display value</note>
+            <note priority="1" from="meaning">menu item Where to buy</note>
+         </trans-unit>
+         <trans-unit id="7691571343198668100" datatype="html">
+            <source>#metawallet</source>
+            <target state="new">#metawallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">26</context>
+            </context-group>
+            <note priority="1" from="description">Used for anchors</note>
+            <note priority="1" from="meaning">menu item MetaWallet</note>
+         </trans-unit>
+         <trans-unit id="5868829285403572605" datatype="html">
+            <source>MetaWallet</source>
+            <target state="new">MetaWallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">26</context>
+            </context-group>
+            <note priority="1" from="description">display value</note>
+            <note priority="1" from="meaning">menu item MetaWallet</note>
+         </trans-unit>
+         <trans-unit id="272619233940619321" datatype="html">
+            <source>#faq</source>
+            <target state="new">#faq</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">27</context>
+            </context-group>
+            <note priority="1" from="description">Used for anchors</note>
+            <note priority="1" from="meaning">menu item FAQ</note>
+         </trans-unit>
+         <trans-unit id="3837590381393356959" datatype="html">
+            <source>FAQ</source>
+            <target state="new">FAQ</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+               <context context-type="linenumber">27</context>
+            </context-group>
+            <note priority="1" from="description">display value</note>
+            <note priority="1" from="meaning">menu item FAQ</note>
+         </trans-unit>
+         <trans-unit id="4682479779544439509" datatype="html">
+            <source>where-to-buy</source>
+            <target state="new">waar-te-koop</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">1</context>
+            </context-group>
+            <note priority="1" from="description">id same as anchor without hash</note>
+            <note priority="1" from="meaning">menu item Where to buy</note>
+         </trans-unit>
+         <trans-unit id="7846194217009182619" datatype="html">
+            <source>Crypto exchanges</source>
+            <target state="new">Crypto exchange</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">4</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1573694088029618742" datatype="html">
+            <source>Where to buy #MHC</source>
+            <target state="new">Waar #MHC kopen</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">6,8</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1466076671356187538" datatype="html">
+            <source>As with all Crypto, you have to purchase through an official exchange. Prepare for a verification process to be able to fund your account. Once you have money in your account, you can buy your MetaHash coins. For every MHC compatible exchange, we have created a tutorial to make the process easy to follow. These are the current exchanges that sell MHC.</source>
+            <target state="new">Zoals bij alle Crypto, moet u kopen via een officiële exchange. Bereid je voor op een verificatieproces om geld op je account te kunnen storten. Zodra u geld op uw account heeft, kunt u uw MetaHash-munten kopen. Voor elke MHC-compatibele exchange hebben we een zelfstudie gemaakt om het proces gemakkelijk te volgen te maken. Dit zijn de huidige beurzen die MHC verkopen.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">12,16</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="6077258486497780364" datatype="html">
+            <source>Widest range of crypto with small fees</source>
+            <target state="new">Grootste keuze cryptovaluta met minimale kost</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">29</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="allowedUS" datatype="html">
+            <source>Allowed in the US</source>
+            <target state="new">Toegestaan in de VS</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">35</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">85</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">136</context>
+            </context-group>
+            <note priority="1" from="description">exchange</note>
+            <note priority="1" from="meaning">exchange</note>
+         </trans-unit>
+         <trans-unit id="7769556505579695143" datatype="html">
+            <source>Withdrawal fee 20 MHC</source>
+            <target state="new">Opnamekosten 20 MHC</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">38</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="withdrawal" datatype="html">
+            <source>Charged when you want to transfer MHC from the exchange wallet to another wallet</source>
+            <target state="new">Wordt in rekening gebracht wanneer u MHC wilt overzetten van de exchange-wallet naar een andere wallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">40,41</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">90,91</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">141,142</context>
+            </context-group>
+            <note priority="1" from="description">tooltip</note>
+            <note priority="1" from="meaning">withdrawal</note>
+         </trans-unit>
+         <trans-unit id="4732455535039475004" datatype="html">
+            <source>Transaction fee 0.10% - 0.10%</source>
+            <target state="new">Transactiekosten 0.10% - 0.10%</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">46,47</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">147,148</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="transactionfee" datatype="html">
+            <source>An exchange fee is charged when buying (maker fee) and when selling (taker fee)</source>
+            <target state="new">Er worden wisselkosten in rekening gebracht bij het kopen (maker fee) en bij verkoop (taker fee)</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">49,50</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">99,100</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">150,151</context>
+            </context-group>
+            <note priority="1" from="description">tooltip</note>
+            <note priority="1" from="meaning">transactionfee</note>
+         </trans-unit>
+         <trans-unit id="staking" datatype="html">
+            <source>Staking</source>
+            <target state="new">Staking</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">55</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">105</context>
+            </context-group>
+            <note priority="1" from="description">Staking</note>
+            <note priority="1" from="meaning">Staking</note>
+         </trans-unit>
+         <trans-unit id="stakingreward" datatype="html">
+            <source>Reward for leaving cryptocurrencies on the exchange</source>
+            <target state="new">Beloning voor het behoud van cryptocurrencies op de exchange</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">57,58</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">159,160</context>
+            </context-group>
+            <note priority="1" from="description">reward</note>
+            <note priority="1" from="meaning">staking</note>
+         </trans-unit>
+         <trans-unit id="6473162283096478026" datatype="html">
+            <source>Founded in 2017, China</source>
+            <target state="new">Opgericht in 2017, China</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">62</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="viewInstructions" datatype="html">
+            <source>View instructions</source>
+            <target state="new">Bekijk instructies</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">66,67</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">117,118</context>
+            </context-group>
+            <note priority="1" from="description">exchange view</note>
+            <note priority="1" from="meaning">exchange view</note>
+         </trans-unit>
+         <trans-unit id="9175397768397674574" datatype="html">
+            <source>Best for beginners but high fees</source>
+            <target state="new">Best voor beginners, maar hoge kosten</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">79</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1581768376521505923" datatype="html">
+            <source>Withdrawal fee 25 MHC</source>
+            <target state="new">Opnamekosten 25 MHC</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">88</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4189763926295822605" datatype="html">
+            <source>Transaction fee 0.25% - 0.16%</source>
+            <target state="new">Transactiekosten 0,25% - 0,16%</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">96,97</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="5859909443628670431" datatype="html">
+            <source>Reward for leaving cryptocurrencies on the exchange. CEX.IO gives a 20% annual staking reward for MHC and pays this monthly.</source>
+            <target state="new">Beloning voor het behoud van cryptocurrencies op de exchange. CEX.IO geeft een jaarlijkse beloning van 20% voor MHC en betaalt deze maandelijks.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">107,109</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4811777266092754029" datatype="html">
+            <source>Founded in 2013, United Kingdom</source>
+            <target state="new">Opgericht in 2013, Verenigd Koninkrijk</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">113</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3566230515873527011" datatype="html">
+            <source>Good range of crypto and small fees</source>
+            <target state="new">Goed aanbod aan crypto en minieme kosten</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">130</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1366934407397341249" datatype="html">
+            <source>Withdrawal fee 50 MHC</source>
+            <target state="new">Opnamekosten 50 MHC</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">139</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="722769145335066178" datatype="html">
+            <source>Founded in 2018, Singapore</source>
+            <target state="new">Opgericht in 2018, Singapore</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">164</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8403850846354223456" datatype="html">
+            <source>Soon!</source>
+            <target state="new">Binnenkort!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
+               <context context-type="linenumber">168</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7537523170911799237" datatype="html">
+            <source>faq</source>
+            <target state="new">faq</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">1</context>
+            </context-group>
+            <note priority="1" from="description">id same as anchor without hash</note>
+            <note priority="1" from="meaning">menu item FAQ</note>
+         </trans-unit>
+         <trans-unit id="1608965556513237077" datatype="html">
+            <source>Frequently asked questions</source>
+            <target state="new">Frequently asked questions</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">7</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">37</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8553715614176688081" datatype="html">
+            <source>Crypto exchange</source>
+            <target state="new">Crypto exchange</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">9,10</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4802811984357164537" datatype="html">
+            <source>Does it matter what crypto exchange I use?</source>
+            <target state="new">Maakt het uit welke crypto exchange ik gebruik?</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">13</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1185473022048345101" datatype="html">
+            <source>It doesn't matter what exchange you use as you will always be able to transfer crypto between exchanges. Just keep in mind that sending coins from an exchange wallet to another wallet most probably will involve a withdrawal fee.</source>
+            <target state="new">Het maakt niet uit welke exchange u gebruikt, u kunt altijd crypto tussen exchanges overzetten. Houd er rekening mee dat het verzenden van munten van een exchange wallet naar een andere wallet hoogstwaarschijnlijk opnamekosten met zich meebrengt.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">15,18</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4832298899251916536" datatype="html">
+            <source>What is coin staking?</source>
+            <target state="new">Wat is munten staking?</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">22</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2727944464454386537" datatype="html">
+            <source>Coin staking on an exchange is similar to coin delegation. With exchange staking you leave your coins on the exchange and get rewarded for doing that. Their reward will usually be less than the one you would receive with MHC coin delegation as they also want to make a profit. It's a good alternative for people who have trust in the exchange and don't want to go through the extra steps for coin delegation.</source>
+            <target state="new">Munten staking op een exchange is vergelijkbaar met het delegeren van munten. Met exchange staking laat u uw munten op de exchange staan en wordt u daarvoor beloond. Hun beloning zal meestal lager zijn dan degene die u zou ontvangen met MHC-muntdelegatie, omdat ze ook winst willen maken. Het is een goed alternatief voor mensen die vertrouwen hebben in de exchange en niet de extra stappen voor het delegeren van munten willen doorlopen.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">24,30</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7480996751651670598" datatype="html">
+            <source>Forging and delegation</source>
+            <target state="new">Forging en delegeren</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">39,40</context>
+            </context-group>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">6,7</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="6385853244964156142" datatype="html">
+            <source>Make sure to also check the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://metahash.readme.io/docs/metagate-forging-faq-1&quot; rel=&quot;noreferrer&quot;
+                                target=&quot;_blank&quot;>"/>Metahash Forging FAQ<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>!</source>
+            <target state="new">
+               Controleer ook de officiële
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-faq-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;>"/>
+               Metahash Forging FAQ
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               !
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">42,44</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="9053442930191879902" datatype="html">
+            <source>What is the difference between MHC wallet forging and coin delegation?</source>
+            <target state="new">Wat is het verschil tussen forging van een MHC-wallet en het delegeren van munten?</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">49,50</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1584931999197521432" datatype="html">
+            <source> With wallet forging, you take part in a daily lottery where an amount of MHC will be randomly distributed between forgers. With active wallet forging, you have to stay online at least for 4h a day to generate lottery tickets and have at least 1000MHC available. With passive forging, you don't have to stay online and you can participate with 100MHC. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;
+                                target=&quot;_blank&quot;>"/>Read more about forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/> With coin delegation you are certain you will get rewarded by the network. You need a minimum of 512 MHC to start delegation. You do not have to be online after you delegated your coins. <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;>"/>Read more about delegation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
+           <target state="new">
+               Bij forging neemt u deel aan een dagelijkse loterij waarbij een hoeveelheid MHC willekeurig wordt verdeeld tussen alle forgers. Tijdens wallet forging moet je minstens 4 uur per dag online blijven om loten te genereren en moet je minimaal 1000MHC beschikbaar hebben. Met passief forging hoef je niet online te blijven en kun je meedoen met 100MHC.
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;>"/>
+               Read more about forging
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               Met het delegeren van munten weet u zeker dat u door het netwerk wordt beloond. U hebt minimaal 512 MHC nodig om de delegatie te starten. U hoeft niet online te zijn nadat u uw munten heeft gedelegeerd.
+               <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;>"/>
+               Lees meer over delegeren van munten
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">52,62</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8113839309708935735" datatype="html">
+            <source>Can I lose my coins? Are my coins at risk?</source>
+            <target state="new">Kan ik mijn munten verliezen? Zijn mijn munten in gevaar?</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">67</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="551235036020375535" datatype="html">
+            <source> When you take part in a forging / delegation process you will not lose your coins. They are frozen in your wallet but you still have full ownership. When they are frozen you cannot use them in any other transactions. Make sure to only use the official applications from <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://www.metagate.org&quot; target=&quot;_blank&quot;>"/>https://www.metagate.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Also keep an eye out for scammers<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>, do not share any wallet or account details with anyone. </source>
+            <target state="new">
+               Als u deelneemt aan een forging- / delegatieproces, verliest u uw munten niet. Ze zijn bevroren in uw wallet, maar u heeft nog steeds het volledige eigendom. Als ze bevroren zijn, kunt u ze niet gebruiken voor andere transacties. Zorg ervoor dat u alleen de officiële applicaties gebruikt van
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://www.metagate.org&quot; target=&quot;_blank&quot;>"/>
+               https://www.metagate.org
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               .
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
+               Let ook op oplichters
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+               , deel met niemand wallet- of accountgegevens.
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">69,75</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3993617153802792169" datatype="html">
+            <source>What are server rewards?</source>
+            <target state="new">Wat zijn serverbeloningen?</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">79</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3549542672668477562" datatype="html">
+            <source>With coin delegation, you receive a daily reward from the MetaHash network. The server also receives a reward and they can give you part of that reward as well. You would normally see this as part of the server description in the MetaGate #MetaForging application server list.</source>
+            <target state="new">Met het delegeren van munten ontvang je een dagelijkse beloning van het MetaHash-netwerk. De server ontvangt ook een beloning en de beheerders kunnen jou ook een deel van die beloning geven. Normaal gesproken ziet u dit als onderdeel van de serverbeschrijving in de MetaGate #MetaForging server lijst.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">81,84</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7420520985063166762" datatype="html">
+            <source>Why would I use coin delegation over staking on an exchange like CEX.IO?</source>
+            <target state="new">Waarom zou ik muntdelegatie gebruiken in plaats van staking op een exchange als CEX.IO?</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">88,89</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8492044104139887412" datatype="html">
+            <source> With coin delegation, your profits will be higher and the payout is daily. You would need to set it up yourself but the ROI (Return of Investment) is around 30%. The benefit of managing your coins in your own #MetaWallet is more secure than leaving them on an exchange (in case they get hacked).<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/> Staking on CEX.IO is similar but they provide it automatically for you with a monthly payout. You don't have to do anything, just leave your coins on the CEX.IO exchange. Staking will give your a ROI of 20% on an annual basis. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://earn.cex.io/staking&quot;>"/>Read more about CEX.IO staking<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
+            <target state="new">
+               Met het delegeren van munten zal uw winst hoger zijn en is de uitbetaling dagelijks. U zal het zelf moeten opzetten, maar de ROI (Return of Investment) is ongeveer 30%. Het voordeel van het beheren van uw munten in uw eigen #MetaWallet is veiliger dan ze op een exchange achter te laten (voor het geval ze gehackt worden).
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               Staking op CEX.IO is vergelijkbaar, maar het is een automatisch process met een maandelijkse uitbetaling. U hoeft niets te doen, laat uw munten gewoon op de CEX.IO exchange staan. Staking geeft u een ROI van 20% op jaarbasis.
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://earn.cex.io/staking&quot;>"/>
+               Lees meer over CEX.IO staking
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
+               <context context-type="linenumber">91,98</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4163377974789646197" datatype="html">
+            <source>Make money while you sleep</source>
+            <target state="new">Verdien geld terwijl je slaapt</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">4</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="5154928403154616161" datatype="html">
+            <source> If you have your MetaHash coins in a MetaWallet, you can generate a passive income. You need to use the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>MetaGate<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> application. Try your luck with the forging lottery or use coin delegation to receive a daily reward from the MHC network. </source>
+            <target state="new">
+               Als u uw MetaHash-munten in een MetaWallet heeft, kunt u een passief inkomen genereren. U moet de officiële
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>
+               MetaGate
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               application gebruiken. Probeer uw geluk met de forging loterij of gebruik muntdelegatie om een dagelijkse beloning van het MHC-netwerk te ontvangen.
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">11,12</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3847857344142638699" datatype="html">
+            <source>Two types of passive income</source>
+            <target state="new">Twee soorten passief inkomen</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">23</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8248295275255284421" datatype="html">
+            <source>Forging</source>
+            <target state="new">Forging</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">25,26</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8999905262378651207" datatype="html">
+            <source> To take part in forging, you only need 100 coins for passive and 1000 coins to take part in active forging. Active forging requires you to keep the MetaGate application open for 4-hours to create a lottery ticket. Read through the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to learn more about lottery forging. </source>
+            <target state="new">
+               Om deel te nemen aan forging, heb je slechts 100 munten nodig voor passieve en 1000 munten om deel te nemen aan actief forging. Actief forging vereist dat je de MetaGate-applicatie 4 uur open houdt om een loterijticket aan te maken. Lees het
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>
+               officiële documentatie
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               voor meer informatie over het forging process.
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">28,29</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2782803999409514023" datatype="html">
+            <source>Coin delegation</source>
+            <target state="new">Munt delegatie</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">32,33</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="686110096900069151" datatype="html">
+            <source> With delegation, you would freeze any amount of coins (minimum of 512 coins) to delegate to a server node. Don't worry, you still own the coins and you are guaranteed to get rewarded for doing this. You are rewarded by the MHC network and by the server node, you could expect an annual yield of 30%. Head over to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to start delegation. </source>
+            <target state="new">
+               Met delegatie zou u elk aantal munten (minimaal 512 munten) bevriezen om naar een server node te delegeren. Maak je geen zorgen, je bezit nog steeds de munten en je krijgt gegarandeerd een beloning hiervoor. Je wordt beloond door het MHC-netwerk en met behulp van de server node mag je een jaarrendement van 30% verwachten. Ga naar de
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>
+               officiële documentatie
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               om te starten met delegatie.
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+               <context context-type="linenumber">35,36</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2382467763361887086" datatype="html">
+            <source>Meet the community!</source>
+            <target state="new">Ontmoet de community!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
+               <context context-type="linenumber">11</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3430592057177991224" datatype="html">
+            <source>Join us on Telegram</source>
+            <target state="new">Doe mee met Telegram</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
+               <context context-type="linenumber">13,14</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7966956141878444204" datatype="html">
+            <source> As a community, we are most active on Telegram. Meet other MHC enthousiasts and have a great time! Stay up to date about any latest development directly from the MetaHash team! <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/> We are looking forward to meet you! </source>
+            <target state="new">
+               Als community zijn we het meest actief op Telegram. Ontmoet andere MHC enthousiastelingen en heb een geweldige tijd! Blijf op de hoogte van de laatste ontwikkelingen, rechtstreeks van het MetaHash-team!
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/>
+               We kijken er naar uit je te ontmoeten!
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
+               <context context-type="linenumber">16,19</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="6076769860751683455" datatype="html">
+            <source>metawallet</source>
+            <target state="new">metawallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">1</context>
+            </context-group>
+            <note priority="1" from="description">id same as anchor without hash</note>
+            <note priority="1" from="meaning">menu item MetaWallet</note>
+         </trans-unit>
+         <trans-unit id="1550140260695141204" datatype="html">
+            <source>Keep your coins safe!</source>
+            <target state="new">Bewaar veilig uw munten!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">4</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="6223421615350732250" datatype="html">
+            <source>Official #MetaWallet</source>
+            <target state="new">Officiële #MetaWallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">6,7</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2425521131463117936" datatype="html">
+            <source>When you got your bag of MHC, it is a good idea to transfer your coins from the crypto exchange to your personal MetaWallet. If you keep your coins on the exchange you might risk loosing them in case the exchange gets hacked.</source>
+            <target state="new">Als je een aantal MHC hebt, is het een goed idee om je munten van de crypto-exchange over te zetten naar je persoonlijke MetaWallet. Als u uw munten op de exchange houdt, loopt u het risico ze te verliezen voor het geval de exchange wordt gehackt.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">11,14</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="5136821282650800221" datatype="html">
+            <source>The MetaGate MetaWallet</source>
+            <target state="new">De MetaGate MetaWallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">20</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7501824124743262409" datatype="html">
+            <source>Desktop wallet MetaGate</source>
+            <target state="new">Desktop wallet MetaGate</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">22,23</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4775283203782216600" datatype="html">
+            <source> To create a wallet, you need to download the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org&quot;
+                            target=&quot;_blank&quot;>"/>MetaGate application<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Then follow the official documentation to start <x id="START_LINK_1" equiv-text="&lt;a
+                            href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;>"/>creating a new wallet<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. </source>
+            <target state="new">
+               Om een wallet aan te maken, moet u de officiële
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org&quot;                             target=&quot;_blank&quot;>"/>
+               MetaGate applicatie
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               downloaden. Volg daarna de officiële documentatie om een
+               <x id="START_LINK_1" equiv-text="&lt;a                             href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;>"/>
+               nieuwe wallet aan te maken
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               .
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">25,29</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3184534344093438900" datatype="html">
+            <source>Once you have your wallet, you can use your exchange to withdraw MHC to your new MetaWallet address. There is a small withdrawal fee that you'll have to pay depending on the exchange you are using.</source>
+            <target state="new">Zodra u uw wallet heeft, kunt u uw exchange gebruiken om MHC te versturen naar uw nieuwe MetaWallet-adres. Er zijn kleine opnamekosten die u moet betalen, afhankelijk van de exchange die u gebruikt.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">32,35</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4217290433662919793" datatype="html">
+            <source>Now that you have your coins on your own wallet, lets make these coins work for you and get you some rewards!</source>
+            <target state="new">Nu u uw munten in uw eigen wallet heeft, laten we deze munten voor ons werken zodat we enkele beloningen kunnen krijgen!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">38,40</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3340770813783955091" datatype="html">
+            <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Make sure to backup your wallet <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>private key<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> and your <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>password<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>. You need both to restore a wallet! Without them you are at risk of losing your coins.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></source>
+            <target state="new">
+               <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>
+               Maak een back-up van uw wallet
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
+               private sleutel
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+               and uw
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
+               wachtworod
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+               . Je hebt beide nodig om een wallet te herstellen! Zonder hen loopt u het risico uw munten te verliezen.
+               <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">43,44</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1595345836481327326" datatype="html">
+            <source>The MHConnect Wallet</source>
+            <target state="new">De MHConnect Wallet</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">64</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1187771588527239527" datatype="html">
+            <source>Phone wallet MHConnect</source>
+            <target state="new">Mobiele wallet MHConnect</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">66,67</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="6697653282617741115" datatype="html">
+            <source>The community created an easy way to manage your digital assets right from your phone. Too lazy to turn on your computer and open the MetaGate application to consult your balance? Then this is absolutely for you!</source>
+            <target state="new">De community heeft een gemakkelijke manier gecreëerd om uw digitale middelen rechtstreeks vanaf uw telefoon te beheren. Te lui om uw computer aan te zetten en de MetaGate-applicatie te openen om uw saldo te raadplegen? Dan is dit echt iets voor jou!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">69,72</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1459352254218100671" datatype="html">
+            <source>MHConnect is actively being developed and maintained by a superb team! You may even use the application in your own language as it supports more than 13 languages!</source>
+            <target state="new">MHConnect wordt actief ontwikkeld en onderhouden door een fantastisch team! U kunt de applicatie zelfs in uw eigen taal gebruiken, aangezien deze meer dan 13 talen ondersteunt!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">74,76</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3646574526947859525" datatype="html">
+            <source>The key features are all there, it does what you expect it to do for a mobile wallet. It also supports delegation and if that's not enough, you can even auto delegate!</source>
+            <target state="new">De belangrijkste functies zijn er allemaal, het doet wat u ervan verwacht voor een mobiele wallet. Het ondersteunt ook delegeren en als dat nog niet genoeg is, kunt u zelfs automatisch delegeren!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">78,80</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1257779399200162095" datatype="html">
+            <source>Lead development by Joseph (@jwmdev)</source>
+            <target state="new">Lead development door Joseph (@jwmdev)</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">84</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2101572665532408064" datatype="html">
+            <source>Coordination and support by James Flame (@JamesFlame)</source>
+            <target state="new">Coordinatie en support door James Flame (@JamesFlame)</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+               <context context-type="linenumber">85</context>
+            </context-group>
+         </trans-unit><trans-unit id="4237648354269831833" datatype="html">
+        <source>why-metahash</source>
+        <target state="new">waarom-metahash</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">id same as anchor without hash</note>
+        <note priority="1" from="meaning">menu item Why MetaHash</note>
+      </trans-unit>
+         <trans-unit id="2985786684124191426" datatype="html">
+            <source>Why MetaHash</source>
+            <target state="new">Waarom MetaHash</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">6</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="3138797162412272659" datatype="html">
+            <source>A Blockchain 4.0 based on the TraceChain protocol</source>
+            <target state="new">Een Blockchain 4.0 gebaseerd op het TraceChain protocol</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">8,9</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="294363356238379767" datatype="html">
+            <source>#MetaHash is a next-generation network based on the Blockchain 4.0 technology for sharing digital assets and a platform for creating and managing decentralized apps and services in real-time.</source>
+            <target state="new">#MetaHash is een netwerk van de volgende generatie op basis van de Blockchain 4.0-technologie voor het delen van digitale middelen en een platform voor het creëren en beheren van gedecentraliseerde apps en services in realtime.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">13,15</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="983989928160669419" datatype="html">
+            <source>Technology can be overwhelming at first but it make sense over time. To help you understand, we've listed the 3 main concepts. Each one links to the official documentation.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>It's up to you to decide if MetaHash would be a good investment, so take some time to read and we hope you will join our community very soon!<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/></source>
+            <target state="new">
+               Technologie kan in het begin overweldigend zijn, maar na verloop van tijd is het logisch. Om u te helpen, hebben we de 3 belangrijkste concepten op een rijtje gezet. Elk verwijst naar de officiële documentatie.
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
+               Het is aan jou om te beslissen of MetaHash een goede investering is, dus neem even de tijd om te lezen en we hopen dat je binnenkort lid wordt van onze community!
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+            </target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">23,27</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1746393773529697597" datatype="html">
+            <source>Incredibly fast</source>
+            <target state="new">Ongelofelijk snel</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">51</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2445178409197296153" datatype="html">
+            <source>Validation rate under 3 seconds. Performance is over 100,000 TPS.</source>
+            <target state="new">Validatiesnelheid binnen 3 seconden. De prestaties zijn meer dan 100.000 TPS.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">55,56</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="8816409759593743127" datatype="html">
+            <source>Secure</source>
+            <target state="new">Veilig</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">75,76</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="822339126286130058" datatype="html">
+            <source>The MultiPos model is a multilevel-check that provides network protection from corruption.</source>
+            <target state="new">Het MultiPos-model is een controle op meerdere niveaus die netwerkbescherming tegen corruptie biedt.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">80,83</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="7518486731227147737" datatype="html">
+            <source>Decentralized</source>
+            <target state="new">Gedecentraliseerd</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">103</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="4709112026569145137" datatype="html">
+            <source>Whenever a new block is added to the blockchain, every computer on the network updates its blockchain to reflect the change.</source>
+            <target state="new">Telkens wanneer een nieuw blok aan de blockchain wordt toegevoegd, werkt elke computer op het netwerk zijn blockchain bij om de verandering weer te geven.</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">107,111</context>
+            </context-group>
+         </trans-unit><trans-unit id="3904180161088906814" datatype="html">
+        <source>Zero network fees</source><target state="new">Geen netwerk kosten</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+          <context context-type="linenumber">127</context>
+        </context-group>
+      </trans-unit>
+         <trans-unit id="621683540349278396" datatype="html">
+            <source>MetHash nodes take care of the transaction for you!</source>
+            <target state="new">MetHash nodes transacties zijn volledig gratis!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+               <context context-type="linenumber">131,132</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="1938600909171840287" datatype="html">
+            <source>A beginners guide to MetaHash</source>
+            <target>Een handleiding voor MetaHash beginners</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
+               <context context-type="linenumber">2</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="5034976132404217593" datatype="html">
+            <source>The fully decentralized next-generation fast performing network based on Blockchain 4.0 technology! As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize your profits? You have come to the right place!</source>
+            <target state="new">Het volledig gedecentraliseerde, snel werkende netwerk van de volgende generatie op basis van Blockchain 4.0-technologie! Als community willen we je helpen tijdens je MetaHash avontuur. Vraagt u zich af waar u kunt kopen en hoe u uw winst kunt maximaliseren? Dan bent u bij ons aan het juiste adres!</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
+               <context context-type="linenumber">4,7</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="2045779543869682721" datatype="html">
+            <source>Get Started</source>
+            <target state="new">Begin nu</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
+               <context context-type="linenumber">9</context>
+            </context-group>
+         </trans-unit>
+         <trans-unit id="128471312374318063" datatype="html">
+            <source>Join the fun on social media:</source>
+            <target state="new">Beleef het zelf en volg ons op sociale media:</target>
+            <context-group purpose="location">
+               <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
+               <context context-type="linenumber">39</context>
+            </context-group>
+         </trans-unit>
+      </body>
+   </file>
+</xliff>

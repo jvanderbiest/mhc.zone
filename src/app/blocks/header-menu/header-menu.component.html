@@ -1,4 +1,3 @@
-<!-- Menu Start -->
 <div id="navbar" class="menu-area menu-sticky">
     <div class="container-fluid">
         <div class="row align-items-center">
@@ -18,21 +17,41 @@
             <div class="col-lg-10 text-right">
                 <div class="rs-menu-area">
                     <div class="main-menu">
-                        <nav class="rs-menu pr-86 md-pr-0" [ngClass]="openMobileMenu ? 'rs-menu-open' : 'rs-menu-close'">
+                        <nav class="rs-menu pr-86 md-pr-0" style="display: flex;"
+                            [ngClass]="openMobileMenu ? 'rs-menu-open' : 'rs-menu-close'">
                             <ul id="onepage-menu" class="nav-menu">
-                                <li><a href="#rs-header">Home</a></li>
-                                <li><a href="#why-metahash">Why MetaHash</a></li>
-                                <li><a href="#where-to-buy">Where to buy</a></li>
-                                <li><a href="#metawallet">MetaWallet</a></li>
-                                <li><a href="#faq">FAQ</a></li>
+                                <li><a i18n-href="menu item home|Used for anchors" href="#home"><ng-container i18n="menu item home|display value">Home</ng-container></a></li>
+                                <li><a i18n-href="menu item Why MetaHash|Used for anchors" href="#why-metahash" i18n="menu item Why MetaHash|display value">Why MetaHash</a></li>
+                                <li><a i18n-href="menu item Where to buy|Used for anchors" href="#where-to-buy" i18n="menu item Where to buy|display value">Where to buy</a></li>
+                                <li><a i18n-href="menu item MetaWallet|Used for anchors" href="#metawallet" i18n="menu item MetaWallet|display value">MetaWallet</a></li>
+                                <li><a i18n-href="menu item FAQ|Used for anchors" href="#faq" i18n="menu item FAQ|display value">FAQ</a></li>
                             </ul> <!-- //.nav-menu -->
+
                         </nav>
                     </div> <!-- //.main-menu -->
+                    <div class="lang-menu">
+                        <div class="selected-lang">
+                            <img src="./assets/images/flags/{{currentLanguage.code}}.png" style="width: 21px;
+                            height: 15px;
+                            margin-top: 7px;
+                            padding-right: 5px;" />
+                            <span>{{currentLanguage.label}} </span>
+                        </div>
+                        <ul>
+                        <ng-template ngFor let-lang [ngForOf]="languages">
+                            <li *ngIf="lang.code !== currentLanguage">
+                                <img src="./assets/images/flags/{{lang.code}}.png" />
+                              <a href="/{{lang.code}}/">{{lang.label}}</a>
+                            </li>
+
+                          </ng-template>
+                        </ul>
+                    </div>
                     <div class="expand-btn-inner search-icon hidden-md">
                         <ul>
-
                             <li>
-                                <a id="nav-expander" class="humburger nav-expander" href="#" (click)="toggleCanvasMenu()">
+                                <a id="nav-expander" class="humburger nav-expander" href="#"
+                                    (click)="toggleCanvasMenu()">
                                     <span class="dot1"></span>
                                     <span class="dot2"></span>
                                     <span class="dot3"></span>
@@ -51,4 +70,3 @@
         </div>
     </div>
 </div>
-<!-- Menu End -->
