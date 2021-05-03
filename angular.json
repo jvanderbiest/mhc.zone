@@ -16,6 +16,15 @@
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+      "i18n": {
+        "sourceLocale": "en",
+        "locales": {
+          "nl": "src/locale/messages.nl.xlf",
+          "ge": "src/locale/messages.ge.xlf",
+          "es": "src/locale/messages.es.xlf",
+          "tr": "src/locale/messages.tr.xlf"
+        }
+      },
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -80,6 +89,16 @@
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
             "browserTarget": "mhczone:build"
+          }
+        },
+        "xliffmerge": {
+          "builder": "@ngx-i18nsupport/tooling:xliffmerge",
+          "options": {
+            "xliffmergeOptions": {
+              "srcDir": "src/locale",
+              "defaultLanguage": "en",
+              "languages": ["nl", "ge", "es", "tr"]
+            }
           }
         },
         "test": {

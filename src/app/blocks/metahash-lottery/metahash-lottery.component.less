@@ -1,0 +1,210 @@
+.total-reward {
+    margin-bottom: 45px;
+    text-align: center;
+
+    .prize-money {
+        font-weight: bold;
+        display: block;
+        font-size: 34px;
+    }
+
+    .prize-text {
+        font-size: 28px;
+
+        img { 
+            padding: 0 10px;
+        }
+    }
+}
+
+
+.second-third {
+    margin-top: 26px;
+    text-align: center; 
+
+}
+
+.prize {
+    text-align: center; 
+    
+    &.second {
+        display: inline-block;
+        padding-right: 50px;
+        line-height: 26px;
+
+        .reward {
+            font-size: 28px;
+        }
+    }
+
+    &.third {
+        display: inline-block;
+        line-height: 20px;
+
+        .reward {
+            font-size: 20px;
+        }
+    }
+
+    .trophy-badge {
+        display: inline-block;
+
+        div {
+            position: relative;
+            color: black;
+            border-radius: 50%;
+            background: gold;
+            display: inline-block;
+    
+            &.first {
+                top: 2px;
+                left: 24px;
+                height: 24px;
+                width: 24px;
+                
+            }
+    
+            span.first {
+                font-size: 18px;
+                font-weight: bold;
+                top: -2px;
+                position: relative;
+            }
+        }
+    
+        fa-icon  {
+            
+                text-align:center;
+                position: relative;
+                font-size: 48px;
+                top: -5px;
+
+                &:after{
+                    position: absolute;
+                    left: 0;
+                    height: 24px;
+                    width: 24px;
+                    text-align: center;
+                    line-height: 1;
+                    font-weight: bold;
+                    border-radius: 50%;
+                    color: #000;
+                    border: 3px solid #000;
+                }
+
+                &.first:after {
+                    content: "1";
+                    font-size: 18px;
+                    top: 30px;
+                    background: #ffd700;
+                }
+
+                &.second:after {
+                    content: "2";
+                    font-size: 18px;
+                    top: 23px;
+                    background: #c0c0c0;
+                    
+                }
+
+                &.third:after {
+                    content: "3";
+                    font-size: 18px;
+                    top: 13px;
+                    background: #cd7f32;
+                }
+
+                &.first {
+                    color: #ffd700;
+                }
+
+                &.second {
+                    color: #c0c0c0;
+                    font-size: 42px;
+                }
+
+                &.third {
+                    color: #cd7f32;
+                    font-size: 32px;
+                }
+                
+            }
+    
+            &.second {
+                font-size: 28px;
+
+               
+            }
+
+            &.third {
+                font-size: 18px;
+                
+            }
+    }
+
+    .reward {
+        display: inline-block;
+        font-size: 34px;
+        padding-left: 18px;
+
+        .small {
+            font-size: 14px;
+            text-align: right;
+        }
+    }
+
+    
+}
+
+.prize-other {
+    display: block;
+    border: 1px solid #0000001c;
+    text-align: center;
+    margin-top: 20px;
+
+    div {
+        div {
+            width: 50%;
+            display: inline-block;
+            line-height: 18px;
+            padding: 5px;
+
+            span:first-child {
+                display: inline-block; 
+            }
+            span:nth-child(2) {
+                display: block;
+                font-size: 12px;
+            }
+        }
+
+       
+
+       
+    }
+   
+}   
+
+.conversion {
+    float: right;
+    font-size: 10px;
+}
+
+@media screen {
+    @media (max-width: 767px) {
+        .prize-text { 
+            font-size: 20px !important;
+        }
+
+        .prize-second {
+            display: block !important;
+            padding-right: 0 !important;
+        }
+
+        .prize-third {
+            display: block !important;
+            margin-top: 20px !important;
+            padding-top: 19px !important;
+        }
+    }
+}
