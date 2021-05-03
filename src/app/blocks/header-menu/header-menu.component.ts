@@ -16,7 +16,6 @@ export class HeaderMenuComponent implements OnInit {
   languages : any = [
     { code: 'nl', label: 'Dutch' },
     { code: 'en', label: 'English' },
-    { code: 'ge', label: 'Georgian' },
     { code: 'es', label: 'Spanish' },
     { code: 'tr', label: 'Turkish' },
   ];

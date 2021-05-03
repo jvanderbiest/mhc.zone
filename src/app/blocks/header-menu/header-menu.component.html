@@ -9,6 +9,21 @@
                     </a>
                 </div>
                 <div class="mobile-menu">
+                    <!-- <div class="lang-menu">
+                        <div class="selected-lang">
+                            <img src="./assets/images/flags/{{currentLanguage.code}}.png"  />
+                        </div>
+                        <ul>
+                        <ng-template ngFor let-lang [ngForOf]="languages">
+                            <li *ngIf="lang.code !== currentLanguage">
+                                <img src="./assets/images/flags/{{lang.code}}.png" />
+                              <a href="/{{lang.code}}/">{{lang.label}}</a>
+                            </li>
+
+                          </ng-template>
+                        </ul>
+                    </div> -->
+
                     <a href="#" (click)="toggleMobileMenu()" class="rs-menu-toggle rs-menu-toggle-close secondary">
                         <fa-icon [icon]="faBars"></fa-icon>
                     </a>
@@ -24,17 +39,15 @@
                                 <li><a i18n-href="menu item Why MetaHash|Used for anchors" href="#why-metahash" i18n="menu item Why MetaHash|display value">Why MetaHash</a></li>
                                 <li><a i18n-href="menu item Where to buy|Used for anchors" href="#where-to-buy" i18n="menu item Where to buy|display value">Where to buy</a></li>
                                 <li><a i18n-href="menu item MetaWallet|Used for anchors" href="#metawallet" i18n="menu item MetaWallet|display value">MetaWallet</a></li>
+                                <li><a i18n-href="menu item Lottery|Used for anchors" href="#lottery" i18n="menu item Lottery|display value">Lottery</a></li>
                                 <li><a i18n-href="menu item FAQ|Used for anchors" href="#faq" i18n="menu item FAQ|display value">FAQ</a></li>
                             </ul> <!-- //.nav-menu -->
 
                         </nav>
                     </div> <!-- //.main-menu -->
-                    <div class="lang-menu">
+                    <!-- <div class="lang-menu">
                         <div class="selected-lang">
-                            <img src="./assets/images/flags/{{currentLanguage.code}}.png" style="width: 21px;
-                            height: 15px;
-                            margin-top: 7px;
-                            padding-right: 5px;" />
+                            <img src="./assets/images/flags/{{currentLanguage.code}}.png"  />
                             <span>{{currentLanguage.label}} </span>
                         </div>
                         <ul>
@@ -46,7 +59,7 @@
 
                           </ng-template>
                         </ul>
-                    </div>
+                    </div> -->
                     <div class="expand-btn-inner search-icon hidden-md">
                         <ul>
                             <li>
