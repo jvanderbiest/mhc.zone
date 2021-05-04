@@ -29,7 +29,7 @@
         <source>#home</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">23</context>
+          <context context-type="linenumber">38</context>
         </context-group>
         <note priority="1" from="description">Used for anchors</note>
         <note priority="1" from="meaning">menu item home</note>
@@ -38,7 +38,7 @@
         <source>Home</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">23</context>
+          <context context-type="linenumber">38</context>
         </context-group>
         <note priority="1" from="description">display value</note>
         <note priority="1" from="meaning">menu item home</note>
@@ -47,7 +47,7 @@
         <source>#why-metahash</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">24</context>
+          <context context-type="linenumber">39</context>
         </context-group>
         <note priority="1" from="description">Used for anchors</note>
         <note priority="1" from="meaning">menu item Why MetaHash</note>
@@ -56,7 +56,7 @@
         <source>Why MetaHash</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">24</context>
+          <context context-type="linenumber">39</context>
         </context-group>
         <note priority="1" from="description">display value</note>
         <note priority="1" from="meaning">menu item Why MetaHash</note>
@@ -65,7 +65,7 @@
         <source>#where-to-buy</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">25</context>
+          <context context-type="linenumber">40</context>
         </context-group>
         <note priority="1" from="description">Used for anchors</note>
         <note priority="1" from="meaning">menu item Where to buy</note>
@@ -74,7 +74,7 @@
         <source>Where to buy</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">25</context>
+          <context context-type="linenumber">40</context>
         </context-group>
         <note priority="1" from="description">display value</note>
         <note priority="1" from="meaning">menu item Where to buy</note>
@@ -83,7 +83,7 @@
         <source>#metawallet</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">26</context>
+          <context context-type="linenumber">41</context>
         </context-group>
         <note priority="1" from="description">Used for anchors</note>
         <note priority="1" from="meaning">menu item MetaWallet</note>
@@ -92,16 +92,52 @@
         <source>MetaWallet</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">26</context>
+          <context context-type="linenumber">41</context>
         </context-group>
         <note priority="1" from="description">display value</note>
         <note priority="1" from="meaning">menu item MetaWallet</note>
+      </trans-unit>
+      <trans-unit id="5505964159926509082" datatype="html">
+        <source>#earn-money-in-your-sleep</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <note priority="1" from="description">Used for anchors</note>
+        <note priority="1" from="meaning">menu item EarnMoneyInYourSleep</note>
+      </trans-unit>
+      <trans-unit id="5895841754414933174" datatype="html">
+        <source>Earn money in your sleep</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <note priority="1" from="description">display value</note>
+        <note priority="1" from="meaning">menu item EarnMoneyInYourSleep</note>
+      </trans-unit>
+      <trans-unit id="3148050201477844866" datatype="html">
+        <source>#lottery</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <note priority="1" from="description">Used for anchors</note>
+        <note priority="1" from="meaning">menu item Lottery</note>
+      </trans-unit>
+      <trans-unit id="7154101933042363658" datatype="html">
+        <source>Lottery</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <note priority="1" from="description">display value</note>
+        <note priority="1" from="meaning">menu item Lottery</note>
       </trans-unit>
       <trans-unit id="272619233940619321" datatype="html">
         <source>#faq</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">44</context>
         </context-group>
         <note priority="1" from="description">Used for anchors</note>
         <note priority="1" from="meaning">menu item FAQ</note>
@@ -110,7 +146,7 @@
         <source>FAQ</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-          <context context-type="linenumber">27</context>
+          <context context-type="linenumber">44</context>
         </context-group>
         <note priority="1" from="description">display value</note>
         <note priority="1" from="meaning">menu item FAQ</note>
@@ -379,7 +415,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2727944464454386537" datatype="html">
-        <source> Coin staking on an exchange is similar to coin delegation. With exchange staking you leave your coins on the exchange and get rewarded for doing that. Their reward will usually be less than the one you would receive with MHC coin delegation as they also want to make a profit. It&apos;s a good alternative for people who have trust in the exchange and don&apos;t want to go through the extra steps for coin delegation. </source>
+        <source> Coin staking on an exchange is similar to coin delegation. With exchange staking you leave your coins on the exchange and get rewarded for doing so. Their reward will usually be less than the one you would receive with MHC coin delegation as they also want to make a profit. It&apos;s a good alternative for people who have trust in the exchange and don&apos;t want to go through the extra steps for coin delegation. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
           <context context-type="linenumber">24,30</context>
@@ -390,10 +426,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
           <context context-type="linenumber">39,40</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
-          <context context-type="linenumber">6,7</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6385853244964156142" datatype="html">
@@ -415,7 +447,7 @@
       <trans-unit id="1584931999197521432" datatype="html">
         <source> With wallet forging, you take part in a daily lottery where an amount of MHC will be randomly distributed between forgers. With active wallet forging, you have to stay online at least for 4h a day to generate lottery tickets and have at least 1000MHC available. With passive forging, you don&apos;t have to stay online and you can participate with 100MHC. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;
-                                target=&quot;_blank&quot;&gt;"/>Read more about forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/> With coin delegation you are certain you will get rewarded by the network. You need a minimum of 512 MHC to start delegation. You do not have to be online after you delegated your coins. <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;&gt;"/>Read more about delegation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+                                target=&quot;_blank&quot;&gt;"/>Read more about forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/> With coin delegation you are guaranteed to be rewarded by the network. You need a minimum of 512 MHC to start delegation. You do not have to be online after you have delegated your coins. <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;&gt;"/>Read more about delegation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
           <context context-type="linenumber">52,62</context>
@@ -458,22 +490,29 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8492044104139887412" datatype="html">
-        <source> With coin delegation, your profits will be higher and the payout is daily. You would need to set it up yourself but the ROI (Return of Investment) is around 30%. The benefit of managing your coins in your own #MetaWallet is more secure than leaving them on an exchange (in case they get hacked).<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/> Staking on CEX.IO is similar but they provide it automatically for you with a monthly payout. You don&apos;t have to do anything, just leave your coins on the CEX.IO exchange. Staking will give your a ROI of 20% on an annual basis. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+        <source> With coin delegation, your profits will be higher and the payout is daily. You would need to set it up yourself but the ROI (Return of Investment) is around 30%. The benefit of managing your coins in your own #MetaWallet is that it is more secure than leaving them on an exchange (in case they get hacked).<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;"/> Staking on CEX.IO is similar but they provide it automatically for you with a monthly payout. You don&apos;t have to do anything, just leave your coins on the CEX.IO exchange. Staking will give your a ROI of 20% on an annual basis. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
                                 href=&quot;https://earn.cex.io/staking&quot;&gt;"/>Read more about CEX.IO staking<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
           <context context-type="linenumber">91,98</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="4163377974789646197" datatype="html">
-        <source>Make money while you sleep</source>
+      <trans-unit id="1907739022248565523" datatype="html">
+        <source>Forging and delegation</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
           <context context-type="linenumber">4</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5154928403154616161" datatype="html">
-        <source> If you have your MetaHash coins in a MetaWallet, you can generate a passive income. You need to use the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;"/>MetaGate<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> application. Try your luck with the forging lottery or use coin delegation to receive a daily reward from the MHC network. </source>
+      <trans-unit id="7625329310612871967" datatype="html">
+        <source> Earn money in your sleep </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4758049616164558312" datatype="html">
+        <source> Securely store your coins in MetaWallet, and you can generate a passive income using the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;"/>MetaGate<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> application. Try your luck with the forging lottery or use coin delegation to receive a daily reward from the MHC network. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
           <context context-type="linenumber">11,12</context>
@@ -493,8 +532,8 @@
           <context context-type="linenumber">25,26</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="8999905262378651207" datatype="html">
-        <source> To take part in forging, you only need 100 coins for passive and 1000 coins to take part in active forging. Active forging requires you to keep the MetaGate application open for 4-hours to create a lottery ticket. Read through the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more about lottery forging. </source>
+      <trans-unit id="1358131124123940781" datatype="html">
+        <source> To take part, you only need 100 coins for passive and 1000 coins to take part in active forging. Active forging requires you to keep the MetaGate application open for 4-hours to create a lottery ticket. Read through the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn more about lottery forging. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
           <context context-type="linenumber">28,29</context>
@@ -507,11 +546,48 @@
           <context context-type="linenumber">32,33</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="686110096900069151" datatype="html">
-        <source> With delegation, you would freeze any amount of coins (minimum of 512 coins) to delegate to a server node. Don&apos;t worry, you still own the coins and you are guaranteed to get rewarded for doing this. You are rewarded by the MHC network and by the server node, you could expect an annual yield of 30%. Head over to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to start delegation. </source>
+      <trans-unit id="7703626561883540396" datatype="html">
+        <source> With delegation, you freeze any amount of coins (minimum of 512 coins) to delegate to a server node. Don&apos;t worry, you still own the coins and you are guaranteed to <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>receive daily<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> rewards for doing this. You are rewarded each day by both the MHC network and by the server node, you could expect annual yields of 30%. Head over to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to start delegation. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
           <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4447429938325466247" datatype="html">
+        <source>lottery</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">id same as anchor without hash</note>
+        <note priority="1" from="meaning">menu item Lottery</note>
+      </trans-unit>
+      <trans-unit id="3467656393886624347" datatype="html">
+        <source>Try your luck and WIN!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1390667753502993002" datatype="html">
+        <source> The daily MetaHash Lottery! </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7949006750891062653" datatype="html">
+        <source> Start active forging and generate tickets to win the daily lottery. There is absolutely no risk and everyone can participate. Use your own 1000 MHC or get them for free using the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metagather.org/&quot; target=&quot;_blank&quot;&gt;"/>MetaGather<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> program. To participate, you need to setup <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; target=&quot;_blank&quot;&gt;"/>MetaGate forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">12,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1646006838144449789" datatype="html">
+        <source><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;total-reward&quot;&gt;"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;prize-text&quot;&gt;"/><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;../../../assets/images/icons/explosion.png&quot; /&gt;"/>Every day MetaHash gives away <x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;../../../assets/images/icons/explosion.png&quot; /&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;prize-money&quot;&gt;"/> 174674 MHC <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_5" ctype="x-div_5" equiv-text="&lt;div class=&quot;prize first&quot;&gt;"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;&gt;"/><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;first&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;&gt;"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div&gt;"/>62510 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;&gt;"/>~$2188 USD* | 40% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_8" ctype="x-div_8" equiv-text="&lt;div class=&quot;second-third&quot;&gt;"/><x id="START_TAG_DIV_6" ctype="x-div_6" equiv-text="&lt;div class=&quot;prize second&quot;&gt;"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;&gt;"/><x id="START_TAG_FA_ICON_1" ctype="x-fa_icon_1" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;second&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;&gt;"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div&gt;"/>15627 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;&gt;"/>~$547 USD* | 10% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_7" ctype="x-div_7" equiv-text="&lt;div class=&quot;prize third&quot;&gt;"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;&gt;"/><x id="START_TAG_FA_ICON_2" ctype="x-fa_icon_2" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;third&quot;&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;&gt;"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div&gt;"/>7813 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;&gt;"/>~$273 USD* | 5% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">20,57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2382467763361887086" datatype="html">
@@ -528,8 +604,8 @@
           <context context-type="linenumber">13,14</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="7966956141878444204" datatype="html">
-        <source> As a community, we are most active on Telegram. Meet other MHC enthusiasts and have a great time! Stay up to date about any latest development directly from the MetaHash team! <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/> We are looking forward to meet you! </source>
+      <trans-unit id="3651575865435556880" datatype="html">
+        <source> As a community, we are most active on Telegram. Meet other MHC enthusiasts and stay up to date... Stay up to date about any latest development directly from the MetaHash team! <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/> We are looking forward to meet you! </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
           <context context-type="linenumber">16,19</context>
@@ -548,35 +624,35 @@
         <source>Keep your coins safe!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">4</context>
+          <context context-type="linenumber">5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6223421615350732250" datatype="html">
         <source> Official #MetaWallet </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">6,7</context>
+          <context context-type="linenumber">7,8</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2425521131463117936" datatype="html">
         <source> When you got your bag of MHC, it is a good idea to transfer your coins from the crypto exchange to your personal MetaWallet. If you keep your coins on the exchange you might risk loosing them in case the exchange gets hacked. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">11,14</context>
+          <context context-type="linenumber">12,15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5136821282650800221" datatype="html">
         <source>The MetaGate MetaWallet</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">21</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7501824124743262409" datatype="html">
         <source> Desktop wallet MetaGate </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">22,23</context>
+          <context context-type="linenumber">23,24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4775283203782216600" datatype="html">
@@ -585,77 +661,77 @@
                             href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;&gt;"/>creating a new wallet<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">25,29</context>
+          <context context-type="linenumber">26,30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3184534344093438900" datatype="html">
         <source> Once you have your wallet, you can use your exchange to withdraw MHC to your new MetaWallet address. There is a small withdrawal fee that you&apos;ll have to pay depending on the exchange you are using. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">32,35</context>
+          <context context-type="linenumber">33,36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4217290433662919793" datatype="html">
         <source> Now that you have your coins on your own wallet, lets make these coins work for you and get you some rewards! </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">38,40</context>
+          <context context-type="linenumber">39,41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="3340770813783955091" datatype="html">
         <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Make sure to backup your wallet <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>private key<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/> and your <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;"/>password<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;"/>. You need both to restore a wallet! Without them you are at risk of losing your coins.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">43,44</context>
+          <context context-type="linenumber">44,45</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1595345836481327326" datatype="html">
         <source>The MHConnect Wallet</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">64</context>
+          <context context-type="linenumber">65</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1187771588527239527" datatype="html">
         <source> Phone wallet MHConnect </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">66,67</context>
+          <context context-type="linenumber">67,68</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="6697653282617741115" datatype="html">
-        <source> The community created an easy way to manage your digital assets right from your phone. Too lazy to turn on your computer and open the MetaGate application to consult your balance? Then this is absolutely for you! </source>
+      <trans-unit id="4140597667445398897" datatype="html">
+        <source> Our highly active community have created an easy way to manage your digital assets right from your phone. Too lazy to turn on your computer and open the MetaGate application to consult your balance? Then this is absolutely for you! </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">69,72</context>
+          <context context-type="linenumber">70,74</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1459352254218100671" datatype="html">
         <source> MHConnect is actively being developed and maintained by a superb team! You may even use the application in your own language as it supports more than 13 languages! </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">74,76</context>
+          <context context-type="linenumber">76,78</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="3646574526947859525" datatype="html">
-        <source> The key features are all there, it does what you expect it to do for a mobile wallet. It also supports delegation and if that&apos;s not enough, you can even auto delegate! </source>
+      <trans-unit id="6896969766843976773" datatype="html">
+        <source> The key Metagate functions are all there, from managing your Metahash, Ethereum and Bitcoin wallets, and delegating coins, to unique additions such as our new &apos;Auto-Delegate&apos; feature - all at your fingertips, whenever, wherever. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">78,80</context>
+          <context context-type="linenumber">80,83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1257779399200162095" datatype="html">
         <source>Lead development by Joseph (@jwmdev)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">84</context>
+          <context context-type="linenumber">87</context>
         </context-group>
       </trans-unit>
       <trans-unit id="2101572665532408064" datatype="html">
         <source>Coordination and support by James Flame (@JamesFlame)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-          <context context-type="linenumber">85</context>
+          <context context-type="linenumber">88</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4237648354269831833" datatype="html">
@@ -702,8 +778,8 @@
           <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="2445178409197296153" datatype="html">
-        <source> Validation rate under 3 seconds. Performance is over 100,000 TPS. </source>
+      <trans-unit id="4018278897046712023" datatype="html">
+        <source> Validation rate under 3 seconds. Performance rate over 100,000 TPS. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
           <context context-type="linenumber">55,56</context>
@@ -758,8 +834,8 @@
           <context context-type="linenumber">2</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="5034976132404217593" datatype="html">
-        <source> The fully decentralized next-generation fast performing network based on Blockchain 4.0 technology! As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize your profits? You have come to the right place! </source>
+      <trans-unit id="1267704300454716215" datatype="html">
+        <source> The fully decentralized next-generation super fast network based on Blockchain 4.0 technology! As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize your profits? you&apos;ve come to the right place! </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
           <context context-type="linenumber">4,7</context>

@@ -3,15 +3,11 @@
    <file source-language="en" datatype="plaintext" original="ng2.template" target-language="tr">
       <body>
          <trans-unit id="2571279690263855617" datatype="html">
-            <source>
-               <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;" />
-               Progress is impossible without change, and those who cannot change their minds cannot change anything! We are always looking for ideas to improve this website. If you would like to contribute please use any of the following methods to contact us!
-               <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;" />
-            </source>
+            <source><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p>"/>Progress is impossible without change, and those who cannot change their minds cannot change anything! We are always looking for ideas to improve this website. If you would like to contribute please use any of the following methods to contact us!<x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p>"/></source>
             <target state="new">
-               <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;" />
-               Değişim olmadan ilerleme imkansızdır ve fikrini değiştiremeyenler hiçbir şeyi değiştiremez! Bu web sitesini geliştirmek için her zaman fikirler arıyoruz. Katkıda bulunmak isterseniz, lütfen bizimle iletişime geçmek için aşağıdaki yöntemlerden birini kullanın!
-               <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;" />
+               <x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p>"/>
+               Değişim olmadan ilerleme imkansızdır ve fikrini değiştiremeyenler hiçbir şeyi değiştiremez! Bu web sitesini geliştirmek için her zaman fikirler arıyoruz. Katkıda bulunmak isterseniz, bizimle iletişime geçmek için lütfen aşağıdaki yöntemlerden birini kullanın!
+               <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p>"/>
             </target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/canvas-menu/canvas-menu.component.html</context>
@@ -28,7 +24,7 @@
          </trans-unit>
          <trans-unit id="7202510188400990473" datatype="html">
             <source>home</source>
-            <target state="new">ev</target>
+            <target state="new">anasayfa</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/header-main/header-main.component.html</context>
                <context context-type="linenumber">4</context>
@@ -38,104 +34,100 @@
          </trans-unit>
          <trans-unit id="7055207907832782063" datatype="html">
             <source>#home</source>
-            <target state="new">#ev</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">23</context>
-            </context-group>
+            <target state="new">#anasayfa</target>
+            
             <note priority="1" from="description">Used for anchors</note>
             <note priority="1" from="meaning">menu item home</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
          <trans-unit id="9002111086030565614" datatype="html">
             <source>Home</source>
-            <target state="new">Ev</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">23</context>
-            </context-group>
+            <target state="new">Anasayfa</target>
+            
             <note priority="1" from="description">display value</note>
             <note priority="1" from="meaning">menu item home</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">38</context></context-group></trans-unit>
          <trans-unit id="7382313831988313584" datatype="html">
             <source>#why-metahash</source>
             <target state="new">#neden-metahash</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">24</context>
-            </context-group>
+            
             <note priority="1" from="description">Used for anchors</note>
             <note priority="1" from="meaning">menu item Why MetaHash</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">39</context></context-group></trans-unit>
          <trans-unit id="5282201524743704385" datatype="html">
             <source>Why MetaHash</source>
             <target state="new">Neden MetaHash</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">24</context>
-            </context-group>
+            
             <note priority="1" from="description">display value</note>
             <note priority="1" from="meaning">menu item Why MetaHash</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">39</context></context-group></trans-unit>
          <trans-unit id="8296735301406128163" datatype="html">
             <source>#where-to-buy</source>
             <target state="new">#nereden-alınır</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">25</context>
-            </context-group>
+            
             <note priority="1" from="description">Used for anchors</note>
             <note priority="1" from="meaning">menu item Where to buy</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">40</context></context-group></trans-unit>
          <trans-unit id="3456761864464197084" datatype="html">
             <source>Where to buy</source>
             <target state="new">Nereden Alınır</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">25</context>
-            </context-group>
+            
             <note priority="1" from="description">display value</note>
             <note priority="1" from="meaning">menu item Where to buy</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">40</context></context-group></trans-unit>
          <trans-unit id="7691571343198668100" datatype="html">
             <source>#metawallet</source>
-            <target state="new">#metawallet</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">26</context>
-            </context-group>
+            <target state="new">#metacuzdan</target>
+            
             <note priority="1" from="description">Used for anchors</note>
             <note priority="1" from="meaning">menu item MetaWallet</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">41</context></context-group></trans-unit>
          <trans-unit id="5868829285403572605" datatype="html">
             <source>MetaWallet</source>
-            <target state="new">MetaWallet</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">26</context>
-            </context-group>
+            <target state="new">MetaCüzdan</target>
+            
             <note priority="1" from="description">display value</note>
             <note priority="1" from="meaning">menu item MetaWallet</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">41</context></context-group></trans-unit><trans-unit id="5505964159926509082" datatype="html">
+        <source>#earn-money-in-your-sleep</source><target state="new">#earn-money-in-your-sleep</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <note priority="1" from="description">Used for anchors</note>
+        <note priority="1" from="meaning">menu item EarnMoneyInYourSleep</note>
+      </trans-unit><trans-unit id="5895841754414933174" datatype="html">
+        <source>Earn money in your sleep</source><target state="new">Earn money in your sleep</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <note priority="1" from="description">display value</note>
+        <note priority="1" from="meaning">menu item EarnMoneyInYourSleep</note>
+      </trans-unit><trans-unit id="3148050201477844866" datatype="html">
+        <source>#lottery</source><target state="new">#lottery</target>
+        
+        <note priority="1" from="description">Used for anchors</note>
+        <note priority="1" from="meaning">menu item Lottery</note>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit><trans-unit id="7154101933042363658" datatype="html">
+        <source>Lottery</source><target state="new">Lottery</target>
+        
+        <note priority="1" from="description">display value</note>
+        <note priority="1" from="meaning">menu item Lottery</note>
+      <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">43</context></context-group></trans-unit>
          <trans-unit id="272619233940619321" datatype="html">
             <source>#faq</source>
-            <target state="new">#faq</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">27</context>
-            </context-group>
+            <target state="new">#sss</target>
+            
             <note priority="1" from="description">Used for anchors</note>
             <note priority="1" from="meaning">menu item FAQ</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">44</context></context-group></trans-unit>
          <trans-unit id="3837590381393356959" datatype="html">
             <source>FAQ</source>
-            <target state="new">FAQ</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context>
-               <context context-type="linenumber">27</context>
-            </context-group>
+            <target state="new">SSS</target>
+            
             <note priority="1" from="description">display value</note>
             <note priority="1" from="meaning">menu item FAQ</note>
-         </trans-unit>
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/header-menu/header-menu.component.html</context><context context-type="linenumber">44</context></context-group></trans-unit>
          <trans-unit id="4682479779544439509" datatype="html">
             <source>where-to-buy</source>
             <target state="new">nereden-alınır</target>
@@ -164,7 +156,7 @@
          </trans-unit>
          <trans-unit id="1466076671356187538" datatype="html">
             <source>As with all Crypto, you have to purchase through an official exchange. Prepare for a verification process to be able to fund your account. Once you have money in your account, you can buy your MetaHash coins. For every MHC compatible exchange, we have created a tutorial to make the process easy to follow. These are the current exchanges that sell MHC.</source>
-            <target state="new">Tüm Kriptolarda olduğu gibi, resmi bir değişim yoluyla satın almanız gerekir. Hesabınıza para yatırabilmek için bir doğrulama sürecine hazırlanın. Hesabınızda paranız olduğunda MetaHash paralarınızı satın alabilirsiniz. MHC uyumlu her değişim için, süreci takip etmeyi kolaylaştırmak için bir eğitim oluşturduk. Bunlar, MHC satan mevcut borsalardır.</target>
+            <target state="new">Tüm Kriptolarda olduğu gibi, resmi bir borsa yoluyla satın almanız gerekir. Hesabınıza para yatırabilmek için bir doğrulama sürecini tamamlayın. Daha sonra hesabınıza para yatırdığınızda MetaHash satın alabilirsiniz. MHC'yi tanıtmak ve nasıl işlem yapılacağını herkesin anlaması için bir eğitim oluşturduk. MHC satan mevcut borsalar bunlardır.</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">12,16</context>
@@ -180,7 +172,7 @@
          </trans-unit>
          <trans-unit id="allowedUS" datatype="html">
             <source>Allowed in the US</source>
-            <target state="new">ABD'de izin verilir</target>
+            <target state="new">ABD'de izini alınmış</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">35</context>
@@ -198,7 +190,7 @@
          </trans-unit>
          <trans-unit id="7769556505579695143" datatype="html">
             <source>Withdrawal fee 20 MHC</source>
-            <target state="new">Para çekme ücreti 20 MHC</target>
+            <target state="new">Para çekme komisyon ücreti 20 MHC</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">38</context>
@@ -224,7 +216,7 @@
          </trans-unit>
          <trans-unit id="4732455535039475004" datatype="html">
             <source>Transaction fee 0.10% - 0.10%</source>
-            <target state="new">İşlem ücreti% 0,10 -% 0,10</target>
+            <target state="new">İşlem ücreti %0,10 - %0,10</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">46,47</context>
@@ -236,7 +228,7 @@
          </trans-unit>
          <trans-unit id="transactionfee" datatype="html">
             <source>An exchange fee is charged when buying (maker fee) and when selling (taker fee)</source>
-            <target state="new">Satın alırken (yapıcı ücreti) ve satarken (alıcı ücreti) bir değişim ücreti alınır.</target>
+            <target state="new">Satın alırken (yapıcı ücreti) ve satarken (alıcı ücreti) gibi bir işlem ücreti alınır.</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">49,50</context>
@@ -282,7 +274,7 @@
          </trans-unit>
          <trans-unit id="6473162283096478026" datatype="html">
             <source>Founded in 2017, China</source>
-            <target state="new">2017 yılında Çin kuruldu</target>
+            <target state="new">2017 yılında Çin'de kuruldu</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">62</context>
@@ -304,7 +296,7 @@
          </trans-unit>
          <trans-unit id="9175397768397674574" datatype="html">
             <source>Best for beginners but high fees</source>
-            <target state="new">Yeni başlayanlar için en iyisi ancak yüksek ücretler</target>
+            <target state="new">Yeni başlayanlar için en iyisi ancak komisyon ücretleri yüksek</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">79</context>
@@ -312,7 +304,7 @@
          </trans-unit>
          <trans-unit id="1581768376521505923" datatype="html">
             <source>Withdrawal fee 25 MHC</source>
-            <target state="new">Para çekme ücreti 25 MHC</target>
+            <target state="new">Para çekme komisyon ücreti 25 MHC</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">88</context>
@@ -328,7 +320,7 @@
          </trans-unit>
          <trans-unit id="5859909443628670431" datatype="html">
             <source>Reward for leaving cryptocurrencies on the exchange. CEX.IO gives a 20% annual staking reward for MHC and pays this monthly.</source>
-            <target state="new">Borsada kripto para bırakmanın ödülü. CEX.IO, MHC için% 20 yıllık stake ödülü verir ve bunu aylık olarak öder.</target>
+            <target state="new">Borsada kripto para bırakmanın ödülü. CEX.IO, MHC için %20 yıllık stake ödülü verir ve bunu aylık olarak öder.</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">107,109</context>
@@ -344,7 +336,7 @@
          </trans-unit>
          <trans-unit id="3566230515873527011" datatype="html">
             <source>Good range of crypto and small fees</source>
-            <target state="new">İyi bir kripto aralığı ve küçük ücretler</target>
+            <target state="new">İyi bir kripto aralığı ve küçük komisyon ücretleri</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">130</context>
@@ -360,7 +352,7 @@
          </trans-unit>
          <trans-unit id="722769145335066178" datatype="html">
             <source>Founded in 2018, Singapore</source>
-            <target state="new">2018 yılında kurulan Singapur</target>
+            <target state="new">2018 yılında Singapur'da kuruldu</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-buy/metahash-buy.component.html</context>
                <context context-type="linenumber">164</context>
@@ -376,7 +368,7 @@
          </trans-unit>
          <trans-unit id="7537523170911799237" datatype="html">
             <source>faq</source>
-            <target state="new">faq</target>
+            <target state="new">sss</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">1</context>
@@ -386,7 +378,7 @@
          </trans-unit>
          <trans-unit id="1608965556513237077" datatype="html">
             <source>Frequently asked questions</source>
-            <target state="new">Frequently asked questions</target>
+            <target state="new">Sık sorunlan sorular</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">7</context>
@@ -398,7 +390,7 @@
          </trans-unit>
          <trans-unit id="8553715614176688081" datatype="html">
             <source>Crypto exchange</source>
-            <target state="new">Kripto değişimi</target>
+            <target state="new">Kripto borsası</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">9,10</context>
@@ -422,15 +414,15 @@
          </trans-unit>
          <trans-unit id="4832298899251916536" datatype="html">
             <source>What is coin staking?</source>
-            <target state="new">Madeni para stake etme nedir?</target>
+            <target state="new">Coin stake etme nedir?</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">22</context>
             </context-group>
          </trans-unit>
          <trans-unit id="2727944464454386537" datatype="html">
-            <source>Coin staking on an exchange is similar to coin delegation. With exchange staking you leave your coins on the exchange and get rewarded for doing that. Their reward will usually be less than the one you would receive with MHC coin delegation as they also want to make a profit. It's a good alternative for people who have trust in the exchange and don't want to go through the extra steps for coin delegation.</source>
-            <target state="new">Bir borsada jeton stake etme, jeton devrine benzer. Döviz stake etme ile paralarınızı borsada bırakırsınız ve bunu yaptığınız için ödüllendirilirsiniz. Onların ödülleri genellikle MHC jeton delegasyonu ile alacağınızdan daha az olacaktır çünkü onlar da kar etmek istiyorlar. Borsaya güvenen ve madeni para delegasyonu için ekstra adımlardan geçmek istemeyen insanlar için iyi bir alternatif.</target>
+            <source>Coin staking on an exchange is similar to coin delegation. With exchange staking you leave your coins on the exchange and get rewarded for doing so. Their reward will usually be less than the one you would receive with MHC coin delegation as they also want to make a profit. It's a good alternative for people who have trust in the exchange and don't want to go through the extra steps for coin delegation.</source>
+            <target state="new">Bir borsada coin stake etme, coini delete etmeye benzer. Döviz stake etme ile coinlerinizi borsada bırakırsınız, bunu yaptığınız için ödüllendirilirsiniz. Onların ödülleri genellikle MHC coin delegasyonu ile alacağınızdan daha az olacaktır çünkü onlar da kar etmek istiyorlar. Borsaya güvenen ve coin delegasyonu için ekstra adımlardan geçmek istemeyen insanlar için iyi bir alternatif.</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">24,30</context>
@@ -438,29 +430,19 @@
          </trans-unit>
          <trans-unit id="7480996751651670598" datatype="html">
             <source>Forging and delegation</source>
-            <target state="new">Dövme ve delegasyon</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
-               <context context-type="linenumber">39,40</context>
-            </context-group>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
-               <context context-type="linenumber">6,7</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">Forging ve delegasyon</target>
+            
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context><context context-type="linenumber">39</context></context-group></trans-unit>
          <trans-unit id="6385853244964156142" datatype="html">
-            <source>
-               Make sure to also check the official
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-faq-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;&gt;" />
-               Metahash Forging FAQ
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               !
-            </source>
+            <source>Make sure to also check the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://metahash.readme.io/docs/metagate-forging-faq-1&quot; rel=&quot;noreferrer&quot;
+                                target=&quot;_blank&quot;>"/>Metahash Forging FAQ<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>!</source>
             <target state="new">
-               Yetkiliyi de kontrol ettiğinizden emin olun
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-faq-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;&gt;" />
-               Metahash Dövme SSS
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
+               Resmiyi de kontrol ettiğinizden emin olun
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-faq-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;>"/>
+               Metahash Forging SSS
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
                !
             </target>
             <context-group purpose="location">
@@ -470,34 +452,26 @@
          </trans-unit>
          <trans-unit id="9053442930191879902" datatype="html">
             <source>What is the difference between MHC wallet forging and coin delegation?</source>
-            <target state="new">MHC cüzdan dövme ile madeni para yetkilendirme arasındaki fark nedir?</target>
+            <target state="new">MHC cüzdan forgin ilecoin delegasyonu arasındaki fark nedir?</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">49,50</context>
             </context-group>
          </trans-unit>
          <trans-unit id="1584931999197521432" datatype="html">
-            <source>
-               With wallet forging, you take part in a daily lottery where an amount of MHC will be randomly distributed between forgers. With active wallet forging, you have to stay online at least for 4h a day to generate lottery tickets and have at least 1000MHC available. With passive forging, you don't have to stay online and you can participate with 100MHC.
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;&gt;" />
-               Read more about forging
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               With coin delegation you are certain you will get rewarded by the network. You need a minimum of 512 MHC to start delegation. You do not have to be online after you delegated your coins.
-               <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;&gt;" />
-               Read more about delegation
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-            </source>
+            <source> With wallet forging, you take part in a daily lottery where an amount of MHC will be randomly distributed between forgers. With active wallet forging, you have to stay online at least for 4h a day to generate lottery tickets and have at least 1000MHC available. With passive forging, you don't have to stay online and you can participate with 100MHC. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;
+                                target=&quot;_blank&quot;>"/>Read more about forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/> With coin delegation you are guaranteed to be rewarded by the network. You need a minimum of 512 MHC to start delegation. You do not have to be online after you have delegated your coins. <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;>"/>Read more about delegation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
             <target state="new">
-               Cüzdan dövme ile, bir miktar MHC'nin sahtekarlar arasında rastgele dağıtılacağı günlük bir piyangoya katılırsınız. Aktif cüzdan sahteciliği ile, piyango bileti oluşturmak için günde en az 4 saat çevrimiçi kalmanız ve en az 1000MHC'ye sahip olmanız gerekir. Pasif dövme ile çevrimiçi kalmak zorunda değilsiniz ve 100MHC ile katılabilirsiniz.
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;&gt;" />
-               Dövme hakkında daha fazla bilgi edinin
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               Jeton delegasyonu ile ağ tarafından ödüllendirileceğinizden eminsiniz. Yetkilendirmeyi başlatmak için minimum 512 MHC'ye ihtiyacınız var. Madeni paralarınızı delege ettikten sonra çevrimiçi olmanız gerekmez.
-               <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;&gt;" />
-               Yetki hakkında daha fazla bilgi edinin
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
+               Cüzdan forging ile, bir miktar MHC'nin forging yapanlar arasında rastgele dağıtılacağı günlük bir piyangoya katılırsınız. Aktif cüzdan forgnig ile, piyango bileti oluşturmak için günde en az 4 saat çevrimiçi kalmanız ve en az 1000MHC'ye sahip olmanız gerekir. Pasif forging ile çevrimiçi kalmak zorunda değilsiniz ve 100MHC ile katılabilirsiniz.
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot;                                 target=&quot;_blank&quot;>"/>
+               Forging hakkında daha fazla bilgi edinin
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               Coin delegasyonu ile ağ tarafından ödüllendirileceğinizden emin olabilirsiniz. Delegasyonu başlatmak için minimum 512 MHC'ye ihtiyacınız var. Madeni paralarınızı delege ettikten sonra çevrimiçi olmanız gerekmez.
+               <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot;>"/>
+               Delegasyon hakkında daha fazla bilgi edinin
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
             </target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
@@ -506,33 +480,24 @@
          </trans-unit>
          <trans-unit id="8113839309708935735" datatype="html">
             <source>Can I lose my coins? Are my coins at risk?</source>
-            <target state="new">Can I lose my coins? Are my coins at risk?</target>
+            <target state="new">Coinlerimi kaybedebilir miyim? Coinlerim risk altında mı?</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">67</context>
             </context-group>
          </trans-unit>
          <trans-unit id="551235036020375535" datatype="html">
-            <source>
-               When you take part in a forging / delegation process you will not lose your coins. They are frozen in your wallet but you still have full ownership. When they are frozen you cannot use them in any other transactions. Make sure to only use the official applications from
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://www.metagate.org&quot; target=&quot;_blank&quot;&gt;" />
-               https://www.metagate.org
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               .
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
-               Also keep an eye out for scammers
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
-               , do not share any wallet or account details with anyone.
-            </source>
+            <source> When you take part in a forging / delegation process you will not lose your coins. They are frozen in your wallet but you still have full ownership. When they are frozen you cannot use them in any other transactions. Make sure to only use the official applications from <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://www.metagate.org&quot; target=&quot;_blank&quot;>"/>https://www.metagate.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>Also keep an eye out for scammers<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>, do not share any wallet or account details with anyone. </source>
             <target state="new">
-               Bir sahtecilik / delegasyon sürecine katıldığınızda madeni paralarınızı kaybetmezsiniz. Cüzdanınızda donmuş durumda ama yine de tam mülkiyete sahipsiniz. Dondurulduklarında başka işlemlerde kullanamazsınız. Yalnızca aşağıdaki resmi uygulamaları kullandığınızdan emin olun:
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://www.metagate.org&quot; target=&quot;_blank&quot;&gt;" />
+               Bir forging / delegasyon sürecine katıldığınızda madeni paralarınızı kaybetmezsiniz. Cüzdanınızda donmuş durumda ama yine de tam mülkiyete sahipsiniz. Dondurulduklarında başka işlemlerde kullanamazsınız. Yalnızca aşağıdaki resmi uygulamaları kullandığınızdan emin olun:
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://www.metagate.org&quot; target=&quot;_blank&quot;>"/>
                https://www.metagate.org
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
                .
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
                Dolandırıcılara da dikkat edin
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
                , herhangi bir cüzdan veya hesap detayını kimseyle paylaşmayın.
             </target>
             <context-group purpose="location">
@@ -550,7 +515,7 @@
          </trans-unit>
          <trans-unit id="3549542672668477562" datatype="html">
             <source>With coin delegation, you receive a daily reward from the MetaHash network. The server also receives a reward and they can give you part of that reward as well. You would normally see this as part of the server description in the MetaGate #MetaForging application server list.</source>
-            <target state="new">Madeni para yetkilendirmesiyle, MetaHash ağından günlük bir ödül alırsınız. Sunucu ayrıca bir ödül alır ve size bu ödülün bir kısmını da verebilir. Normalde bunu MetaGate #MetaForging uygulama sunucusu listesinde sunucu açıklamasının bir parçası olarak görürsünüz.</target>
+            <target state="new">Coin delegasyonu, MetaHash ağından günlük bir ödül alırsınız. Sunucu ayrıca bir ödül alır ve bu ödülün bir kısmını da size verir. Normalde bunu MetaGate #MetaForging uygulama sunucusu listesinde sunucu açıklamasının bir parçası olarak görürsünüz.</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">81,84</context>
@@ -558,62 +523,48 @@
          </trans-unit>
          <trans-unit id="7420520985063166762" datatype="html">
             <source>Why would I use coin delegation over staking on an exchange like CEX.IO?</source>
-            <target state="new">Neden CEX.IO gibi bir borsada stake etme yerine madeni para delegasyonunu kullanmalıyım?</target>
+            <target state="new">Neden CEX.IO gibi bir borsada stake etme yerine coin delegasyonunu kullanmalıyım?</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">88,89</context>
             </context-group>
          </trans-unit>
          <trans-unit id="8492044104139887412" datatype="html">
-            <source>
-               With coin delegation, your profits will be higher and the payout is daily. You would need to set it up yourself but the ROI (Return of Investment) is around 30%. The benefit of managing your coins in your own #MetaWallet is more secure than leaving them on an exchange (in case they get hacked).
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               Staking on CEX.IO is similar but they provide it automatically for you with a monthly payout. You don't have to do anything, just leave your coins on the CEX.IO exchange. Staking will give your a ROI of 20% on an annual basis.
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://earn.cex.io/staking&quot;&gt;" />
-               Read more about CEX.IO staking
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-            </source>
+            <source> With coin delegation, your profits will be higher and the payout is daily. You would need to set it up yourself but the ROI (Return of Investment) is around 30%. The benefit of managing your coins in your own #MetaWallet is that it is more secure than leaving them on an exchange (in case they get hacked).<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/> Staking on CEX.IO is similar but they provide it automatically for you with a monthly payout. You don't have to do anything, just leave your coins on the CEX.IO exchange. Staking will give your a ROI of 20% on an annual basis. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a
+                                href=&quot;https://earn.cex.io/staking&quot;>"/>Read more about CEX.IO staking<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/></source>
             <target state="new">
-               Madeni para delegasyonu ile karınız daha yüksek olacak ve ödeme günlük olacaktır. Bunu kendiniz ayarlamanız gerekir, ancak ROI (Yatırımın Geri Dönüşü) yaklaşık% 30'dur. Madeni paralarınızı kendi #MetaWallet'ınızda yönetmenin yararı, onları bir borsada bırakmaktan daha güvenlidir (saldırıya uğramaları durumunda).
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               CEX.IO'da stake etmek de benzerdir, ancak bunu size otomatik olarak aylık bir ödeme ile sağlarlar. Hiçbir şey yapmanıza gerek yok, sadece paralarınızı CEX.IO değişiminde bırakın. Stake etme, yıllık bazda% 20'lik bir yatırım getirisi sağlayacaktır.
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://earn.cex.io/staking&quot;&gt;" />
+               coin delegasyonu ile karınız daha yüksek olacak ve ödeme günlük olacaktır. Bunu kendiniz ayarlamanız gerekir, ancak ROI (Yatırımın Geri Dönüşü) yaklaşık%30'dur. Coinlerinizi kendi #MetaCüzdan'nınızda yönetmenin yararı, onları bir borsada bırakmaktan daha güvenlidir (saldırıya uğramaları durumunda).
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               CEX.IO'da stake etmek de benzerdir, ancak bunu size otomatik olarak aylık bir ödeme ile sağlarlar. Hiçbir şey yapmanıza gerek yok, sadece coinlerinizi CEX.IO borsasında bırakın. Stake etme, yıllık bazda %20'lik bir yatırım getirisi sağlayacaktır.
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a                                 href=&quot;https://earn.cex.io/staking&quot;>"/>
                CEX.IO staking hakkında daha fazla bilgi edinin
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
             </target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-faq/metahash-faq.component.html</context>
                <context context-type="linenumber">91,98</context>
             </context-group>
-         </trans-unit>
-         <trans-unit id="4163377974789646197" datatype="html">
-            <source>Make money while you sleep</source>
-            <target state="new">Uyurken para kazanın</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
-               <context context-type="linenumber">4</context>
-            </context-group>
-         </trans-unit>
-         <trans-unit id="5154928403154616161" datatype="html">
-            <source>
-               If you have your MetaHash coins in a MetaWallet, you can generate a passive income. You need to use the official
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;" />
-               MetaGate
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               application. Try your luck with the forging lottery or use coin delegation to receive a daily reward from the MHC network.
-            </source>
-            <target state="new">
-               MetaHash madeni paralarınız bir MetaWallet'ta varsa, pasif bir gelir elde edebilirsiniz. Resmi kullanmanız gerekiyor
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;" />
-               MetaGate
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               uygulama. MHC ağından günlük bir ödül almak için sahte piyango ile şansınızı deneyin veya jeton delegasyonunu kullanın.
-            </target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
-               <context context-type="linenumber">11,12</context>
-            </context-group>
-         </trans-unit>
+         </trans-unit><trans-unit id="1907739022248565523" datatype="html">
+        <source>Forging and delegation</source><target state="new">Forging and delegation</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit><trans-unit id="7625329310612871967" datatype="html">
+        <source> Earn money in your sleep </source><target state="new"> Earn money in your sleep </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+      </trans-unit><trans-unit id="4758049616164558312" datatype="html">
+        <source> Securely store your coins in MetaWallet, and you can generate a passive income using the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>MetaGate<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> application. Try your luck with the forging lottery or use coin delegation to receive a daily reward from the MHC network. </source><target state="new"> Securely store your coins in MetaWallet, and you can generate a passive income using the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org/&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>MetaGate<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> application. Try your luck with the forging lottery or use coin delegation to receive a daily reward from the MHC network. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+         
+         
          <trans-unit id="3847857344142638699" datatype="html">
             <source>Two types of passive income</source>
             <target state="new">İki tür pasif gelir</target>
@@ -624,60 +575,66 @@
          </trans-unit>
          <trans-unit id="8248295275255284421" datatype="html">
             <source>Forging</source>
-            <target state="new">Dövme</target>
+            <target state="new">Forging</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
                <context context-type="linenumber">25,26</context>
             </context-group>
-         </trans-unit>
-         <trans-unit id="8999905262378651207" datatype="html">
-            <source>
-               To take part in forging, you only need 100 coins for passive and 1000 coins to take part in active forging. Active forging requires you to keep the MetaGate application open for 4-hours to create a lottery ticket. Read through the
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;" />
-               official documentation
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               to learn more about lottery forging.
-            </source>
-            <target state="new">
-               Dövme işlemine katılmak için, pasif için sadece 100 jeton ve aktif dövmede yer almak için 1000 jetona ihtiyacınız var. Aktif sahtecilik, bir piyango bileti oluşturmak için MetaGate uygulamasını 4 saat açık tutmanızı gerektirir. Baştan sona okuyun
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;" />
-               resmi belgeler
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               piyango sahteciliği hakkında daha fazla bilgi edinmek için.
-            </target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
-               <context context-type="linenumber">28,29</context>
-            </context-group>
-         </trans-unit>
+         </trans-unit><trans-unit id="1358131124123940781" datatype="html">
+        <source> To take part, you only need 100 coins for passive and 1000 coins to take part in active forging. Active forging requires you to keep the MetaGate application open for 4-hours to create a lottery ticket. Read through the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to learn more about lottery forging. </source><target state="new"> To take part, you only need 100 coins for passive and 1000 coins to take part in active forging. Active forging requires you to keep the MetaGate application open for 4-hours to create a lottery ticket. Read through the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to learn more about lottery forging. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+         
          <trans-unit id="2782803999409514023" datatype="html">
             <source>Coin delegation</source>
-            <target state="new">Sikke delegasyonu</target>
+            <target state="new">Coin delegasyonu</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
                <context context-type="linenumber">32,33</context>
             </context-group>
-         </trans-unit>
-         <trans-unit id="686110096900069151" datatype="html">
-            <source>
-               With delegation, you would freeze any amount of coins (minimum of 512 coins) to delegate to a server node. Don't worry, you still own the coins and you are guaranteed to get rewarded for doing this. You are rewarded by the MHC network and by the server node, you could expect an annual yield of 30%. Head over to the
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;" />
-               official documentation
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               to start delegation.
-            </source>
-            <target state="new">
-               Delegasyon ile, bir sunucu düğümüne delege etmek için herhangi bir miktarda parayı (en az 512 jeton) dondurursunuz. Endişelenmeyin, madeni paralara hâlâ sahipsiniz ve bunu yaptığınız için ödüllendirileceksiniz. MHC ağı ve sunucu düğümü tarafından ödüllendirildiniz, yıllık% 30'luk bir getiri bekleyebilirsiniz. Şuraya gidin:
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;&gt;" />
-               resmi belgeler
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               yetkilendirmeyi başlatmak için.
-            </target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
-               <context context-type="linenumber">35,36</context>
-            </context-group>
-         </trans-unit>
+         </trans-unit><trans-unit id="7703626561883540396" datatype="html">
+        <source> With delegation, you freeze any amount of coins (minimum of 512 coins) to delegate to a server node. Don't worry, you still own the coins and you are guaranteed to <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>receive daily<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> rewards for doing this. You are rewarded each day by both the MHC network and by the server node, you could expect annual yields of 30%. Head over to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to start delegation. </source><target state="new"> With delegation, you freeze any amount of coins (minimum of 512 coins) to delegate to a server node. Don't worry, you still own the coins and you are guaranteed to <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>receive daily<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> rewards for doing this. You are rewarded each day by both the MHC network and by the server node, you could expect annual yields of 30%. Head over to the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/delegation-of-the-coins-1&quot; rel=&quot;noreferrer&quot; target=&quot;_blank&quot;>"/>official documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> to start delegation. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-forging/metahash-forging.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+         <trans-unit id="4447429938325466247" datatype="html">
+        <source>lottery</source><target state="new">lottery</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">id same as anchor without hash</note>
+        <note priority="1" from="meaning">menu item Lottery</note>
+      </trans-unit><trans-unit id="3467656393886624347" datatype="html">
+        <source>Try your luck and WIN!</source><target state="new">Try your luck and WIN!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit><trans-unit id="1390667753502993002" datatype="html">
+        <source> The daily MetaHash Lottery! </source><target state="new"> The daily MetaHash Lottery! </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit><trans-unit id="7949006750891062653" datatype="html">
+        <source> Start active forging and generate tickets to win the daily lottery. There is absolutely no risk and everyone can participate. Use your own 1000 MHC or get them for free using the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metagather.org/&quot; target=&quot;_blank&quot;>"/>MetaGather<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> program. To participate, you need to setup <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; target=&quot;_blank&quot;>"/>MetaGate forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. </source><target state="new"> Start active forging and generate tickets to win the daily lottery. There is absolutely no risk and everyone can participate. Use your own 1000 MHC or get them for free using the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://metagather.org/&quot; target=&quot;_blank&quot;>"/>MetaGather<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> program. To participate, you need to setup <x id="START_LINK_1" equiv-text="&lt;a href=&quot;https://metahash.readme.io/docs/metagate-forging-1&quot; target=&quot;_blank&quot;>"/>MetaGate forging<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">12,16</context>
+        </context-group>
+      </trans-unit><trans-unit id="1646006838144449789" datatype="html">
+        <source><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;total-reward&quot;>"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;prize-text&quot;>"/><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;../../../assets/images/icons/explosion.png&quot; />"/>Every day MetaHash gives away <x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;../../../assets/images/icons/explosion.png&quot; />"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;prize-money&quot;>"/> 174674 MHC <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_5" ctype="x-div_5" equiv-text="&lt;div class=&quot;prize first&quot;>"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;>"/><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;first&quot;>"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;>"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div>"/>62510 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;>"/>~$2188 USD* | 40% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_8" ctype="x-div_8" equiv-text="&lt;div class=&quot;second-third&quot;>"/><x id="START_TAG_DIV_6" ctype="x-div_6" equiv-text="&lt;div class=&quot;prize second&quot;>"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;>"/><x id="START_TAG_FA_ICON_1" ctype="x-fa_icon_1" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;second&quot;>"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;>"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div>"/>15627 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;>"/>~$547 USD* | 10% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_7" ctype="x-div_7" equiv-text="&lt;div class=&quot;prize third&quot;>"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;>"/><x id="START_TAG_FA_ICON_2" ctype="x-fa_icon_2" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;third&quot;>"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;>"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div>"/>7813 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;>"/>~$273 USD* | 5% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/></source><target state="new"><x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div class=&quot;total-reward&quot;>"/><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;prize-text&quot;>"/><x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;../../../assets/images/icons/explosion.png&quot; />"/>Every day MetaHash gives away <x id="TAG_IMG" ctype="image" equiv-text="&lt;img src=&quot;../../../assets/images/icons/explosion.png&quot; />"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;prize-money&quot;>"/> 174674 MHC <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_5" ctype="x-div_5" equiv-text="&lt;div class=&quot;prize first&quot;>"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;>"/><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;first&quot;>"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;>"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div>"/>62510 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;>"/>~$2188 USD* | 40% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_8" ctype="x-div_8" equiv-text="&lt;div class=&quot;second-third&quot;>"/><x id="START_TAG_DIV_6" ctype="x-div_6" equiv-text="&lt;div class=&quot;prize second&quot;>"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;>"/><x id="START_TAG_FA_ICON_1" ctype="x-fa_icon_1" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;second&quot;>"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;>"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div>"/>15627 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;>"/>~$547 USD* | 10% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_7" ctype="x-div_7" equiv-text="&lt;div class=&quot;prize third&quot;>"/><x id="START_TAG_DIV_1" ctype="x-div_1" equiv-text="&lt;div class=&quot;trophy-badge&quot;>"/><x id="START_TAG_FA_ICON_2" ctype="x-fa_icon_2" equiv-text="&lt;fa-icon [icon]=&quot;faTrophy&quot; class=&quot;third&quot;>"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;/fa-icon>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_4" ctype="x-div_4" equiv-text="&lt;div class=&quot;reward&quot;>"/><x id="START_TAG_DIV_2" ctype="x-div_2" equiv-text="&lt;div>"/>7813 MHC<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="START_TAG_DIV_3" ctype="x-div_3" equiv-text="&lt;div class=&quot;small&quot;>"/>~$273 USD* | 5% share<x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div>"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-lottery/metahash-lottery.component.html</context>
+          <context context-type="linenumber">20,57</context>
+        </context-group>
+      </trans-unit>
          <trans-unit id="2382467763361887086" datatype="html">
             <source>Meet the community!</source>
             <target state="new">Toplulukla tanışın!</target>
@@ -693,26 +650,17 @@
                <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
                <context context-type="linenumber">13,14</context>
             </context-group>
-         </trans-unit>
-         <trans-unit id="7966956141878444204" datatype="html">
-            <source>
-               As a community, we are most active on Telegram. Meet other MHC enthusiasts and have a great time! Stay up to date about any latest development directly from the MetaHash team!
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />
-               We are looking forward to meet you!
-            </source>
-            <target state="new">
-               Topluluk olarak en çok Telegram'da aktifiz. Diğer MHC meraklılarıyla tanışın ve harika zaman geçirin! Doğrudan MetaHash ekibinden en son gelişmeler hakkında güncel kalın!
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;" />
-               Sizlerle bulusmak icin sabirsizlaniyoruz!
-            </target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
-               <context context-type="linenumber">16,19</context>
-            </context-group>
-         </trans-unit>
+         </trans-unit><trans-unit id="3651575865435556880" datatype="html">
+        <source> As a community, we are most active on Telegram. Meet other MHC enthusiasts and stay up to date... Stay up to date about any latest development directly from the MetaHash team! <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/> We are looking forward to meet you! </source><target state="new"> As a community, we are most active on Telegram. Meet other MHC enthusiasts and stay up to date... Stay up to date about any latest development directly from the MetaHash team! <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/>"/> We are looking forward to meet you! </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-social/metahash-social.component.html</context>
+          <context context-type="linenumber">16,19</context>
+        </context-group>
+      </trans-unit>
+         
          <trans-unit id="6076769860751683455" datatype="html">
             <source>metawallet</source>
-            <target state="new">metawallet</target>
+            <target state="new">metacüzdan</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
                <context context-type="linenumber">1</context>
@@ -723,175 +671,111 @@
          <trans-unit id="1550140260695141204" datatype="html">
             <source>Keep your coins safe!</source>
             <target state="new">Paralarınızı güvende tutun!</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">4</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">5</context></context-group></trans-unit>
          <trans-unit id="6223421615350732250" datatype="html">
             <source>Official #MetaWallet</source>
-            <target state="new">Resmi #MetaWallet</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">6,7</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">Resmi #MetaCüzdan</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">7</context></context-group></trans-unit>
          <trans-unit id="2425521131463117936" datatype="html">
-            <source>When you got your bag of MHC, it is a good idea to transfer your coins from the crypto exchange to your personal MetaWallet. If you keep your coins on the exchange you might risk loosing them in case the exchange gets hacked.</source>
-            <target state="new">MHC çantanızı aldığınızda, coinlerinizi kripto borsasından kişisel MetaWallet'ınıza aktarmak iyi bir fikirdir. Coinlerinizi borsada tutarsanız, takasın hacklenmesi durumunda onları kaybetme riskiniz olabilir.</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">11,14</context>
-            </context-group>
-         </trans-unit>
+            <source> When you got your bag of MHC, it is a good idea to transfer your coins from the crypto exchange to your personal MetaWallet. If you keep your coins on the exchange you might risk loosing them in case the exchange gets hacked. </source>
+            <target state="new">MHC çantanızı aldığınızda, coinlerinizi kripto borsasından kişisel MetaCüzdan'ınıza aktarmak iyi bir fikirdir. Coinlerinizi borsada tutarsanız, borsanın hacklenmesi durumunda onları kaybetme riskiniz olabilir.</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">12</context></context-group></trans-unit>
          <trans-unit id="5136821282650800221" datatype="html">
             <source>The MetaGate MetaWallet</source>
-            <target state="new">MetaGate MetaWallet</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">20</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">MetaGate MetaCüzdan</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">21</context></context-group></trans-unit>
          <trans-unit id="7501824124743262409" datatype="html">
             <source>Desktop wallet MetaGate</source>
             <target state="new">Masaüstü cüzdan MetaGate</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">22,23</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">23</context></context-group></trans-unit>
          <trans-unit id="4775283203782216600" datatype="html">
-            <source>
-               To create a wallet, you need to download the official
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org&quot;                             target=&quot;_blank&quot;&gt;" />
-               MetaGate application
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               . Then follow the official documentation to start
-               <x id="START_LINK_1" equiv-text="&lt;a                             href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;&gt;" />
-               creating a new wallet
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               .
-            </source>
+            <source> To create a wallet, you need to download the official <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org&quot;
+                            target=&quot;_blank&quot;>"/>MetaGate application<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. Then follow the official documentation to start <x id="START_LINK_1" equiv-text="&lt;a
+                            href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;>"/>creating a new wallet<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>. </source>
             <target state="new">
-               Bir cüzdan oluşturmak için resmi indirmeniz gerekir
-               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org&quot;                             target=&quot;_blank&quot;&gt;" />
-               MetaGate uygulaması
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
-               . Ardından başlamak için resmi belgeleri takip edin
-               <x id="START_LINK_1" equiv-text="&lt;a                             href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;&gt;" />
-               yeni bir cüzdan yaratmak
-               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;" />
+               Bir cüzdan oluşturmak için
+               <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://www.metahash.org&quot;                             target=&quot;_blank&quot;>"/>
+               MetaGate uygulamasını
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
+               resmi siteden indirmeniz gerekir. Ardından başlamak için resmi belgeleri takip edin
+               <x id="START_LINK_1" equiv-text="&lt;a                             href=&quot;https://metahash.readme.io/docs/what-is-metawallet&quot; target=&quot;_blank&quot;>"/>
+               yeni bir cüzdan oluşturmak
+               <x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/>
                .
             </target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">25,29</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">26</context></context-group></trans-unit>
          <trans-unit id="3184534344093438900" datatype="html">
             <source>Once you have your wallet, you can use your exchange to withdraw MHC to your new MetaWallet address. There is a small withdrawal fee that you'll have to pay depending on the exchange you are using.</source>
-            <target state="new">Cüzdanınızı aldıktan sonra, değişiminizi MHC'yi yeni MetaWallet adresinize çekmek için kullanabilirsiniz. Kullandığınız borsaya bağlı olarak ödemeniz gereken küçük bir para çekme ücreti vardır.</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">32,35</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">Cüzdanınızı aldıktan sonra, borsanızı MHC'yi yeni MetaCüzdan adresinize çekmek için kullanabilirsiniz. Kullandığınız borsaya bağlı olarak ödemeniz gereken küçük bir para çekme ücreti vardır.</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">33</context></context-group></trans-unit>
          <trans-unit id="4217290433662919793" datatype="html">
             <source>Now that you have your coins on your own wallet, lets make these coins work for you and get you some rewards!</source>
-            <target state="new">Artık paralarınız kendi cüzdanınızda olduğuna göre, bu paraları sizin için çalıştıralım ve size bazı ödüller verelim!</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">38,40</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">Artık coinleriniz kendi cüzdanınızda olduğuna göre, bu coinleri sizin için çalıştıralım ve size bazı ödüller verelim!</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">39</context></context-group></trans-unit>
          <trans-unit id="3340770813783955091" datatype="html">
-            <source>
-               <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />
-               Make sure to backup your wallet
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
-               private key
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
-               and your
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
-               password
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
-               . You need both to restore a wallet! Without them you are at risk of losing your coins.
-               <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />
-            </source>
+            <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>Make sure to backup your wallet <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>private key<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/> and your <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>password<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>. You need both to restore a wallet! Without them you are at risk of losing your coins.<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/></source>
             <target state="new">
-               <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;" />
-               Cüzdanınızı yedeklediğinizden emin olun
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
+               <x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span>"/>
+               Cüzdanınızı yedeklediğinizden emin olun özellikle
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
                Özel anahtar
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
-               ve senin
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
-               parola
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
-               . Bir cüzdanı geri yüklemek için ikisine de ihtiyacınız var! Onlar olmadan madeni paralarınızı kaybetme riskiniz vardır.
-               <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;" />
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+               ve
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
+               parolanızı
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
+               . Bir cüzdanı tekrar geri yüklemek için ikisine de ihtiyacınız var! Onlar olmadan madeni coinlerinizi kaybetme riskiniz vardır.
+               <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span>"/>
             </target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">43,44</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">44</context></context-group></trans-unit>
          <trans-unit id="1595345836481327326" datatype="html">
             <source>The MHConnect Wallet</source>
             <target state="new">MHConnect Cüzdanı</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">64</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">65</context></context-group></trans-unit>
          <trans-unit id="1187771588527239527" datatype="html">
             <source>Phone wallet MHConnect</source>
             <target state="new">Telefon cüzdanı MHConnect</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">66,67</context>
-            </context-group>
-         </trans-unit>
-         <trans-unit id="6697653282617741115" datatype="html">
-            <source>The community created an easy way to manage your digital assets right from your phone. Too lazy to turn on your computer and open the MetaGate application to consult your balance? Then this is absolutely for you!</source>
-            <target state="new">Topluluk, dijital varlıklarınızı doğrudan telefonunuzdan yönetmenin kolay bir yolunu yarattı. Bilgisayarınızı ve MetaGate uygulamasını açıp bakiyenize bakmak için çok mu tembelsiniz? O zaman bu kesinlikle sizin için!</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">69,72</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">67</context></context-group></trans-unit><trans-unit id="4140597667445398897" datatype="html">
+        <source> Our highly active community have created an easy way to manage your digital assets right from your phone. Too lazy to turn on your computer and open the MetaGate application to consult your balance? Then this is absolutely for you! </source><target state="new"> Our highly active community have created an easy way to manage your digital assets right from your phone. Too lazy to turn on your computer and open the MetaGate application to consult your balance? Then this is absolutely for you! </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+          <context context-type="linenumber">70,74</context>
+        </context-group>
+      </trans-unit>
+         
          <trans-unit id="1459352254218100671" datatype="html">
-            <source>MHConnect is actively being developed and maintained by a superb team! You may even use the application in your own language as it supports more than 13 languages!</source>
+            <source> MHConnect is actively being developed and maintained by a superb team! You may even use the application in your own language as it supports more than 13 languages! </source>
             <target state="new">MHConnect, mükemmel bir ekip tarafından aktif olarak geliştirilmekte ve sürdürülmektedir! Uygulamayı 13'ten fazla dili desteklediği için kendi dilinizde bile kullanabilirsiniz!</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">74,76</context>
-            </context-group>
-         </trans-unit>
-         <trans-unit id="3646574526947859525" datatype="html">
-            <source>The key features are all there, it does what you expect it to do for a mobile wallet. It also supports delegation and if that's not enough, you can even auto delegate!</source>
-            <target state="new">Temel özelliklerin hepsi orada, bir mobil cüzdan için yapmasını beklediğinizi yapıyor. Yetkilendirmeyi de destekler ve bu yeterli değilse, otomatik yetkilendirme bile yapabilirsiniz!</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">78,80</context>
-            </context-group>
-         </trans-unit>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">76</context></context-group></trans-unit><trans-unit id="6896969766843976773" datatype="html">
+        <source> The key Metagate functions are all there, from managing your Metahash, Ethereum and Bitcoin wallets, and delegating coins, to unique additions such as our new 'Auto-Delegate' feature - all at your fingertips, whenever, wherever. </source><target state="new"> The key Metagate functions are all there, from managing your Metahash, Ethereum and Bitcoin wallets, and delegating coins, to unique additions such as our new 'Auto-Delegate' feature - all at your fingertips, whenever, wherever. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
+          <context context-type="linenumber">80,83</context>
+        </context-group>
+      </trans-unit>
+         
          <trans-unit id="1257779399200162095" datatype="html">
             <source>Lead development by Joseph (@jwmdev)</source>
-            <target state="new">Lead development by Joseph (@jwmdev)</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">84</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">Lead development Joseph (@jwmdev)</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">87</context></context-group></trans-unit>
          <trans-unit id="2101572665532408064" datatype="html">
             <source>Coordination and support by James Flame (@JamesFlame)</source>
-            <target state="new">Koordinasyon ve destek by James Flame (@JamesFlame)</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context>
-               <context context-type="linenumber">85</context>
-            </context-group>
-         </trans-unit>
+            <target state="new">Koordinasyon ve destek James Flame (@JamesFlame)</target>
+            
+         <context-group purpose="location"><context context-type="sourcefile">src/app/blocks/metahash-wallet/metahash-wallet.component.html</context><context context-type="linenumber">88</context></context-group></trans-unit>
          <trans-unit id="4237648354269831833" datatype="html">
             <source>why-metahash</source>
             <target state="new">neden-metahash</target>
@@ -927,21 +811,14 @@
             </context-group>
          </trans-unit>
          <trans-unit id="983989928160669419" datatype="html">
-            <source>
-               Technology can be overwhelming at first but it make sense over time. To help you understand, we've listed the 3 main concepts. Each one links to the official documentation.
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
-               It's up to you to decide if MetaHash would be a good investment, so take some time to read and we hope you will join our community very soon!
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
-            </source>
+            <source>Technology can be overwhelming at first but it make sense over time. To help you understand, we've listed the 3 main concepts. Each one links to the official documentation.<x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/><x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/><x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>It's up to you to decide if MetaHash would be a good investment, so take some time to read and we hope you will join our community very soon!<x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/></source>
             <target state="new">
-               Teknoloji ilk başta çok zor olabilir ama zamanla anlam kazanır. Anlamanıza yardımcı olmak için 3 ana kavramı listeledik. Her biri resmi belgelere bağlantılıdır.
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br /&gt;" />
-               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b&gt;" />
+               Teknoloji ilk başta çok zor olabilir ama zamanla anlam kazanır. Anlamanıza yardımcı olmak için 3 ana kavramı listeledik. Her bir link resmi dokümantasyon linkidir.
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br />"/>
+               <x id="START_BOLD_TEXT" ctype="x-b" equiv-text="&lt;b>"/>
                MetaHash'ın iyi bir yatırım olup olmayacağına karar vermek size kalmış, bu yüzden okumak için biraz zaman ayırın ve umarız çok yakında topluluğumuza katılacaksınız!
-               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b&gt;" />
+               <x id="CLOSE_BOLD_TEXT" ctype="x-b" equiv-text="&lt;/b>"/>
             </target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
@@ -955,15 +832,14 @@
                <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
                <context context-type="linenumber">51</context>
             </context-group>
-         </trans-unit>
-         <trans-unit id="2445178409197296153" datatype="html">
-            <source>Validation rate under 3 seconds. Performance is over 100,000 TPS.</source>
-            <target state="new">Doğrulama oranı 3 saniyenin altında. Performans 100.000 TPS'nin üzerindedir.</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
-               <context context-type="linenumber">55,56</context>
-            </context-group>
-         </trans-unit>
+         </trans-unit><trans-unit id="4018278897046712023" datatype="html">
+        <source> Validation rate under 3 seconds. Performance rate over 100,000 TPS. </source><target state="new"> Validation rate under 3 seconds. Performance rate over 100,000 TPS. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
+          <context context-type="linenumber">55,56</context>
+        </context-group>
+      </trans-unit>
+         
          <trans-unit id="8816409759593743127" datatype="html">
             <source>Secure</source>
             <target state="new">Güvenli</target>
@@ -990,7 +866,7 @@
          </trans-unit>
          <trans-unit id="4709112026569145137" datatype="html">
             <source>Whenever a new block is added to the blockchain, every computer on the network updates its blockchain to reflect the change.</source>
-            <target state="new">Blok zincirine yeni bir blok eklendiğinde, ağdaki her bilgisayar, değişikliği yansıtmak için blok zincirini günceller.</target>
+            <target state="new">Blockchain yeni bir blok eklendiğinde, ağdaki her bilgisayar, değişikliği yansıtmak için blockchaini günceller.</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
                <context context-type="linenumber">107,111</context>
@@ -1006,7 +882,7 @@
          </trans-unit>
          <trans-unit id="621683540349278396" datatype="html">
             <source>MetHash nodes take care of the transaction for you!</source>
-            <target state="new">MetHash düğümleri işlemi sizin için halleder!</target>
+            <target state="new">MetHash nodeları işlemi sizin için halleder!</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/metahash-why/metahash-why.component.html</context>
                <context context-type="linenumber">131,132</context>
@@ -1019,18 +895,17 @@
                <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
                <context context-type="linenumber">2</context>
             </context-group>
-         </trans-unit>
-         <trans-unit id="5034976132404217593" datatype="html">
-            <source>The fully decentralized next-generation fast performing network based on Blockchain 4.0 technology! As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize your profits? You have come to the right place!</source>
-            <target state="new">Blockchain 4.0 teknolojisine dayalı, tamamen merkezi olmayan yeni nesil hızlı performanslı ağ! Topluluk olarak, MetaHash maceranız sırasında size yardımcı olmak istiyoruz. Nereden satın alacağınızı ve karınızı nasıl en üst düzeye çıkaracağınızı mı merak ediyorsunuz? Doğru yere geldiniz!</target>
-            <context-group purpose="location">
-               <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
-               <context context-type="linenumber">4,7</context>
-            </context-group>
-         </trans-unit>
+         </trans-unit><trans-unit id="1267704300454716215" datatype="html">
+        <source> The fully decentralized next-generation super fast network based on Blockchain 4.0 technology! As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize your profits? you've come to the right place! </source><target state="new"> The fully decentralized next-generation super fast network based on Blockchain 4.0 technology! As a community we want to help you during your MetaHash adventure. Wondering where to buy and how to maximize your profits? you've come to the right place! </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
+          <context context-type="linenumber">4,7</context>
+        </context-group>
+      </trans-unit>
+         
          <trans-unit id="2045779543869682721" datatype="html">
             <source>Get Started</source>
-            <target state="new">Başlamak</target>
+            <target state="new">Başla</target>
             <context-group purpose="location">
                <context context-type="sourcefile">src/app/blocks/splash-container/splash-left/splash-left.component.html</context>
                <context context-type="linenumber">9</context>
